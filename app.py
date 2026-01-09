@@ -19,14 +19,14 @@ st.markdown("Predict **Droplet Size**, **PDI**, and **Stability** based on formu
 @st.cache_data
 def load_data():
     # Using the filename from your second notebook
-    df = pd.read_csv('drug_loaded_nanoemulsion_1500 (1).csv')
+    df = pd.read_csv('drug_loaded_nanoemulsion_1500.csv')
     return df
 
 try:
     df = load_data()
     st.sidebar.success("Dataset loaded successfully!")
 except Exception as e:
-    st.error(f"Please upload 'drug_loaded_nanoemulsion_1500 (1).csv' to your GitHub repo. Error: {e}")
+    st.error(f"Please upload 'drug_loaded_nanoemulsion_1500.csv' to your GitHub repo. Error: {e}")
     st.stop()
 
 # --- 2. Sidebar Inputs ---
