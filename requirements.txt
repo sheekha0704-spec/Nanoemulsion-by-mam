@@ -1,8 +1,6 @@
 streamlit
 pandas
-joblib
+numpy
 scikit-learn
-fpdf2
-plotly
-
-
+matplotlib
+seaborn
