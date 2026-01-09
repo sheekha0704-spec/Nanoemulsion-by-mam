@@ -1,0 +1,1501 @@
+ID,Oil_Type,Surfactant_Type,Required_HLB,Oil_MW,Surf_HLB,Surf_MW,Smix_Ratio,System_HLB,PDI,Stability_Target,Drug_Name,Drug_Loading_mg_mL,EE_Percent
+NE_0001,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.313,0,Curcumin,16.76,81.74
+NE_0002,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.145,1,Ibuprofen,45.02,95.2
+NE_0003,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.143,0,Curcumin,10.58,84.14
+NE_0004,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.151,0,Curcumin,10.79,83.36
+NE_0005,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.176,0,Ibuprofen,32.4,73.03
+NE_0006,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.148,0,Curcumin,16.56,85.65
+NE_0007,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.289,0,Curcumin,13.63,85.66
+NE_0008,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.238,0,Curcumin,9.12,78.82
+NE_0009,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.197,0,Ibuprofen,41.76,88.27
+NE_0010,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.369,0,Paclitaxel,2.06,83.05
+NE_0011,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.163,0,Curcumin,14.73,83.59
+NE_0012,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.287,1,Celecoxib,162.47,94.6
+NE_0013,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.263,1,Celecoxib,138.38,96.18
+NE_0014,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.145,1,Ibuprofen,45.48,97.79
+NE_0015,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.332,0,Paclitaxel,4.93,82.7
+NE_0016,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.39,0,Ibuprofen,30.87,79.97
+NE_0017,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.233,1,Celecoxib,135.9,93.61
+NE_0018,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.21,0,Ibuprofen,36.5,85.33
+NE_0019,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.139,0,Ibuprofen,47.17,82.39
+NE_0020,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.138,1,Celecoxib,182.9,98.17
+NE_0021,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.382,0,Curcumin,17.5,81.93
+NE_0022,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.337,0,Celecoxib,175.43,84.75
+NE_0023,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.205,0,Ibuprofen,51.74,77.86
+NE_0024,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.404,0,Ibuprofen,36.69,80.05
+NE_0025,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.343,0,Curcumin,15.11,86.65
+NE_0026,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.404,0,Curcumin,9.12,87.16
+NE_0027,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.123,0,Curcumin,8.79,83.83
+NE_0028,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.278,0,Curcumin,9.29,75.62
+NE_0029,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.106,1,Celecoxib,191.36,94.06
+NE_0030,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.306,0,Celecoxib,135.2,72.92
+NE_0031,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.417,0,Celecoxib,166.02,86.8
+NE_0032,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.343,0,Paclitaxel,4.72,77.62
+NE_0033,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.28,1,Paclitaxel,3.34,92.14
+NE_0034,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.185,1,Celecoxib,167.76,97.01
+NE_0035,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.422,0,Celecoxib,125.51,80.5
+NE_0036,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.277,0,Curcumin,12.95,86.04
+NE_0037,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.309,0,Paclitaxel,4.13,87.93
+NE_0038,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.272,1,Celecoxib,201.97,94.33
+NE_0039,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.376,0,Celecoxib,137.68,73.47
+NE_0040,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.408,0,Paclitaxel,5.85,74.47
+NE_0041,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.306,0,Paclitaxel,5.46,83.4
+NE_0042,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.354,0,Paclitaxel,2.45,76.81
+NE_0043,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.287,1,Paclitaxel,3.34,92.3
+NE_0044,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.328,0,Ibuprofen,30.34,85.88
+NE_0045,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.418,0,Curcumin,17.93,84.64
+NE_0046,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.232,0,Paclitaxel,3.77,82.91
+NE_0047,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.102,0,Curcumin,14.29,77.49
+NE_0048,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.409,0,Celecoxib,135.19,83.27
+NE_0049,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.207,1,Paclitaxel,5.88,98.34
+NE_0050,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.441,0,Paclitaxel,4.51,75.72
+NE_0051,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.252,1,Paclitaxel,4.3,99.15
+NE_0052,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.272,0,Paclitaxel,3.1,86.23
+NE_0053,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.156,1,Paclitaxel,4.92,98.38
+NE_0054,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.273,1,Celecoxib,138.81,94.41
+NE_0055,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.429,0,Celecoxib,147.19,70.78
+NE_0056,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.28,0,Curcumin,10.96,88.04
+NE_0057,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.307,0,Ibuprofen,30.83,76.86
+NE_0058,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.355,0,Celecoxib,148.63,86.09
+NE_0059,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.194,1,Celecoxib,120.35,95.21
+NE_0060,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.228,0,Paclitaxel,3.94,79.24
+NE_0061,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.369,0,Celecoxib,160.23,84.93
+NE_0062,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.284,0,Curcumin,14.94,83.03
+NE_0063,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.349,0,Paclitaxel,6.37,76.61
+NE_0064,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.197,1,Celecoxib,194.24,99.39
+NE_0065,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.119,0,Ibuprofen,32.6,72.5
+NE_0066,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.323,0,Paclitaxel,2.01,76.62
+NE_0067,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.427,0,Paclitaxel,3.06,84.91
+NE_0068,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.23,0,Curcumin,16.9,71.37
+NE_0069,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.328,0,Curcumin,13.04,70.52
+NE_0070,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.418,0,Paclitaxel,3.76,74.45
+NE_0071,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.153,1,Celecoxib,199.42,92.21
+NE_0072,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.241,0,Paclitaxel,6.29,70.56
+NE_0073,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.342,0,Ibuprofen,41.53,84.9
+NE_0074,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.183,0,Ibuprofen,50.23,71.72
+NE_0075,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.124,1,Celecoxib,188.11,92.58
+NE_0076,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.287,1,Paclitaxel,2.53,93.9
+NE_0077,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.248,0,Paclitaxel,6.28,79.45
+NE_0078,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.307,0,Ibuprofen,36.51,85.16
+NE_0079,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.413,0,Paclitaxel,4.4,72.91
+NE_0080,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.296,0,Paclitaxel,5.67,77.57
+NE_0081,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.113,0,Curcumin,8.64,77.45
+NE_0082,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.394,0,Paclitaxel,3.69,79.73
+NE_0083,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.439,0,Paclitaxel,2.41,88.27
+NE_0084,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.214,0,Curcumin,9.3,88.14
+NE_0085,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.19,0,Curcumin,14.71,72.69
+NE_0086,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.118,1,Paclitaxel,3.98,92.15
+NE_0087,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.343,0,Celecoxib,202.04,72.2
+NE_0088,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.382,0,Celecoxib,130.99,74.24
+NE_0089,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.328,0,Ibuprofen,42.52,81.73
+NE_0090,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.413,0,Ibuprofen,52.36,86.57
+NE_0091,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.32,0,Ibuprofen,37.64,85.24
+NE_0092,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.29,0,Curcumin,12.68,73.86
+NE_0093,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.373,0,Paclitaxel,6.25,80.36
+NE_0094,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.118,0,Paclitaxel,4.29,86.06
+NE_0095,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.329,0,Ibuprofen,36.37,85.24
+NE_0096,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.414,0,Paclitaxel,4.16,75.66
+NE_0097,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.176,1,Paclitaxel,4.77,93.43
+NE_0098,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.426,0,Curcumin,15.53,86.63
+NE_0099,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.183,0,Curcumin,13.61,81.35
+NE_0100,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.31,0,Celecoxib,198.27,81.43
+NE_0101,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.376,0,Ibuprofen,47.62,79.32
+NE_0102,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.434,0,Curcumin,14.11,78.02
+NE_0103,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.133,1,Celecoxib,180.58,92.56
+NE_0104,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.335,0,Curcumin,13.28,83.1
+NE_0105,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.335,0,Ibuprofen,38.7,72.49
+NE_0106,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.29,0,Curcumin,11.52,76.92
+NE_0107,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.303,0,Ibuprofen,41.8,72.02
+NE_0108,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.208,0,Curcumin,16.92,76.79
+NE_0109,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.286,0,Paclitaxel,2.49,70.52
+NE_0110,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.132,0,Ibuprofen,42.01,80.78
+NE_0111,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.164,0,Curcumin,15.08,74.33
+NE_0112,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.13,0,Curcumin,9.3,77.22
+NE_0113,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.404,0,Celecoxib,133.77,70.66
+NE_0114,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.245,1,Paclitaxel,3.18,97.2
+NE_0115,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.159,1,Paclitaxel,5.31,99.14
+NE_0116,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.42,0,Ibuprofen,35.81,86.59
+NE_0117,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.262,1,Paclitaxel,6.1,98.71
+NE_0118,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.441,0,Celecoxib,131.11,75.79
+NE_0119,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.24,0,Ibuprofen,30.72,79.97
+NE_0120,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.163,0,Paclitaxel,4.83,77.66
+NE_0121,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.441,0,Celecoxib,136.08,82.4
+NE_0122,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.106,0,Curcumin,10.53,83.63
+NE_0123,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.424,0,Paclitaxel,4.85,71.8
+NE_0124,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.26,0,Paclitaxel,5.52,76.69
+NE_0125,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.295,0,Ibuprofen,54.24,85.83
+NE_0126,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.21,0,Paclitaxel,3.59,83.67
+NE_0127,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.309,0,Ibuprofen,47.14,74.44
+NE_0128,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.215,0,Paclitaxel,2.75,71.37
+NE_0129,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.255,0,Ibuprofen,41.85,81.59
+NE_0130,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.216,0,Paclitaxel,2.03,74.13
+NE_0131,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.38,0,Curcumin,15.07,84.57
+NE_0132,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.135,1,Paclitaxel,4.71,99.31
+NE_0133,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.266,0,Curcumin,8.24,87.09
+NE_0134,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.328,0,Celecoxib,135.11,88.49
+NE_0135,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.133,0,Ibuprofen,40.15,72.64
+NE_0136,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.363,0,Celecoxib,181.62,75.48
+NE_0137,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.28,0,Paclitaxel,4.69,86.15
+NE_0138,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.109,0,Curcumin,11.33,73.86
+NE_0139,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.411,0,Ibuprofen,37.01,84.57
+NE_0140,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.277,1,Celecoxib,174.29,95.76
+NE_0141,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.416,0,Ibuprofen,47.25,78.51
+NE_0142,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.249,1,Celecoxib,141.35,92.81
+NE_0143,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.152,0,Paclitaxel,2.75,88.13
+NE_0144,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.341,0,Paclitaxel,5.0,79.98
+NE_0145,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.422,0,Ibuprofen,35.13,84.96
+NE_0146,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.119,0,Paclitaxel,5.02,76.26
+NE_0147,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.33,0,Celecoxib,155.87,70.45
+NE_0148,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.139,0,Curcumin,17.93,80.57
+NE_0149,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.365,0,Celecoxib,164.36,80.95
+NE_0150,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.417,0,Paclitaxel,2.6,84.3
+NE_0151,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.257,1,Paclitaxel,6.47,98.8
+NE_0152,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.438,0,Paclitaxel,2.06,70.29
+NE_0153,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.258,1,Paclitaxel,6.26,95.04
+NE_0154,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.313,0,Celecoxib,136.75,74.42
+NE_0155,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.446,0,Paclitaxel,2.66,87.31
+NE_0156,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.232,1,Paclitaxel,3.52,96.59
+NE_0157,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.43,0,Paclitaxel,6.16,82.29
+NE_0158,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.31,0,Curcumin,8.61,80.77
+NE_0159,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.37,0,Curcumin,10.75,80.69
+NE_0160,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.22,1,Ibuprofen,43.11,96.86
+NE_0161,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.39,0,Ibuprofen,49.48,73.42
+NE_0162,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.208,0,Paclitaxel,6.38,72.01
+NE_0163,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.188,0,Curcumin,11.14,84.6
+NE_0164,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.123,1,Celecoxib,161.9,99.32
+NE_0165,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.443,0,Curcumin,11.28,83.72
+NE_0166,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.447,0,Celecoxib,137.08,71.04
+NE_0167,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.25,0,Ibuprofen,32.0,79.55
+NE_0168,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.321,0,Paclitaxel,3.7,82.68
+NE_0169,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.24,0,Ibuprofen,53.16,83.69
+NE_0170,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.369,0,Curcumin,14.93,82.39
+NE_0171,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.117,0,Ibuprofen,45.44,74.89
+NE_0172,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.173,0,Curcumin,11.23,88.15
+NE_0173,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.168,0,Ibuprofen,47.4,72.61
+NE_0174,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.371,0,Curcumin,9.86,77.84
+NE_0175,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.204,0,Ibuprofen,44.27,82.35
+NE_0176,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.126,0,Ibuprofen,51.61,78.47
+NE_0177,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.265,0,Ibuprofen,36.97,76.14
+NE_0178,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.398,0,Celecoxib,172.99,79.34
+NE_0179,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.423,0,Celecoxib,169.84,72.0
+NE_0180,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.251,0,Ibuprofen,31.15,80.19
+NE_0181,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.283,1,Celecoxib,208.03,95.92
+NE_0182,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.109,0,Ibuprofen,47.84,85.76
+NE_0183,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.123,0,Ibuprofen,46.71,82.03
+NE_0184,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.441,0,Curcumin,9.3,70.66
+NE_0185,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.126,1,Celecoxib,179.6,96.41
+NE_0186,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.212,0,Ibuprofen,54.91,84.34
+NE_0187,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.105,0,Ibuprofen,31.56,81.72
+NE_0188,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.215,0,Ibuprofen,31.69,85.02
+NE_0189,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.111,0,Ibuprofen,35.36,81.38
+NE_0190,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.343,0,Celecoxib,142.83,73.25
+NE_0191,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.306,0,Ibuprofen,50.15,84.27
+NE_0192,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.123,0,Curcumin,12.72,84.73
+NE_0193,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.405,0,Paclitaxel,3.31,74.37
+NE_0194,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.369,0,Ibuprofen,30.59,76.18
+NE_0195,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.268,1,Paclitaxel,5.67,96.02
+NE_0196,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.181,1,Celecoxib,209.31,96.49
+NE_0197,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.221,1,Paclitaxel,4.4,95.15
+NE_0198,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.205,0,Ibuprofen,42.2,74.04
+NE_0199,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.217,1,Celecoxib,176.03,98.53
+NE_0200,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.223,0,Ibuprofen,44.17,86.18
+NE_0201,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.377,0,Celecoxib,127.95,73.72
+NE_0202,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.167,0,Paclitaxel,5.54,84.65
+NE_0203,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.441,0,Curcumin,15.17,77.36
+NE_0204,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.335,0,Curcumin,9.66,77.81
+NE_0205,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.4,0,Celecoxib,145.67,78.03
+NE_0206,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.433,0,Curcumin,11.83,74.69
+NE_0207,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.139,1,Celecoxib,205.22,98.97
+NE_0208,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.448,0,Celecoxib,196.41,84.47
+NE_0209,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.379,0,Paclitaxel,6.34,87.99
+NE_0210,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.438,0,Curcumin,15.63,77.86
+NE_0211,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.308,0,Paclitaxel,6.37,78.11
+NE_0212,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.42,0,Paclitaxel,3.62,87.21
+NE_0213,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.317,0,Ibuprofen,36.43,75.91
+NE_0214,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.413,0,Ibuprofen,35.89,71.24
+NE_0215,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.188,1,Celecoxib,186.36,95.75
+NE_0216,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.261,0,Ibuprofen,34.36,83.73
+NE_0217,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.227,0,Curcumin,15.46,74.55
+NE_0218,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.445,0,Curcumin,9.04,81.36
+NE_0219,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.422,0,Paclitaxel,2.17,72.63
+NE_0220,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.394,0,Ibuprofen,42.89,76.83
+NE_0221,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.249,1,Celecoxib,148.78,95.27
+NE_0222,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.333,0,Curcumin,12.57,81.99
+NE_0223,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.29,0,Paclitaxel,4.93,70.42
+NE_0224,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.271,0,Curcumin,11.44,80.96
+NE_0225,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.436,0,Celecoxib,203.61,72.69
+NE_0226,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.297,0,Curcumin,16.57,80.07
+NE_0227,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.14,1,Paclitaxel,5.86,97.43
+NE_0228,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.385,0,Ibuprofen,51.5,77.05
+NE_0229,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.164,1,Celecoxib,136.19,93.5
+NE_0230,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.421,0,Curcumin,10.64,88.05
+NE_0231,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.399,0,Paclitaxel,3.85,75.27
+NE_0232,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.299,1,Ibuprofen,45.0,95.9
+NE_0233,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.147,0,Ibuprofen,32.33,73.37
+NE_0234,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.113,0,Ibuprofen,39.14,81.71
+NE_0235,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.128,0,Paclitaxel,4.33,82.3
+NE_0236,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.164,1,Celecoxib,158.96,94.0
+NE_0237,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.376,0,Ibuprofen,44.09,83.16
+NE_0238,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.178,0,Ibuprofen,47.33,79.96
+NE_0239,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.372,0,Paclitaxel,4.69,82.97
+NE_0240,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.336,0,Celecoxib,166.87,73.64
+NE_0241,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.276,0,Ibuprofen,39.89,84.4
+NE_0242,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.153,0,Curcumin,16.31,88.47
+NE_0243,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.448,0,Ibuprofen,38.14,85.09
+NE_0244,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.12,0,Paclitaxel,5.77,83.02
+NE_0245,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.122,1,Celecoxib,206.27,94.38
+NE_0246,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.372,0,Celecoxib,157.42,85.29
+NE_0247,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.322,0,Paclitaxel,2.01,76.2
+NE_0248,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.178,0,Ibuprofen,41.49,86.68
+NE_0249,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.118,0,Celecoxib,196.33,74.42
+NE_0250,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.104,0,Ibuprofen,52.86,76.01
+NE_0251,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.142,0,Paclitaxel,2.36,77.3
+NE_0252,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.149,1,Celecoxib,165.41,97.05
+NE_0253,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.256,1,Celecoxib,199.66,98.16
+NE_0254,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.258,0,Curcumin,12.19,88.36
+NE_0255,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.337,0,Paclitaxel,2.52,75.49
+NE_0256,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.351,0,Ibuprofen,41.33,87.62
+NE_0257,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.332,0,Ibuprofen,41.28,77.71
+NE_0258,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.324,0,Ibuprofen,47.75,76.95
+NE_0259,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.188,1,Celecoxib,163.25,95.42
+NE_0260,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.39,0,Celecoxib,160.83,87.75
+NE_0261,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.337,0,Curcumin,15.69,78.06
+NE_0262,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.321,0,Celecoxib,166.46,81.15
+NE_0263,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.272,0,Curcumin,15.11,80.94
+NE_0264,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.213,1,Celecoxib,208.7,94.38
+NE_0265,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.324,0,Ibuprofen,46.33,74.61
+NE_0266,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.428,0,Celecoxib,206.63,80.61
+NE_0267,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.426,0,Paclitaxel,5.07,84.64
+NE_0268,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.277,1,Paclitaxel,3.5,94.79
+NE_0269,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.234,0,Curcumin,10.43,80.16
+NE_0270,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.198,0,Paclitaxel,4.07,71.83
+NE_0271,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.245,0,Curcumin,11.79,83.75
+NE_0272,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.245,0,Ibuprofen,40.53,70.25
+NE_0273,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.157,0,Curcumin,16.88,72.44
+NE_0274,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.276,0,Curcumin,8.87,73.72
+NE_0275,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.301,0,Paclitaxel,2.16,82.74
+NE_0276,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.353,0,Paclitaxel,4.26,79.92
+NE_0277,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.272,0,Ibuprofen,32.79,71.45
+NE_0278,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.231,0,Paclitaxel,5.76,71.4
+NE_0279,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.201,0,Ibuprofen,30.59,81.44
+NE_0280,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.131,1,Ibuprofen,32.12,96.39
+NE_0281,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.143,0,Curcumin,8.26,70.26
+NE_0282,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.248,1,Celecoxib,187.97,96.88
+NE_0283,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.253,0,Ibuprofen,44.12,77.82
+NE_0284,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.233,1,Celecoxib,142.89,94.87
+NE_0285,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.313,0,Ibuprofen,35.77,79.85
+NE_0286,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.429,0,Celecoxib,148.91,74.28
+NE_0287,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.178,0,Paclitaxel,4.08,70.92
+NE_0288,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.307,0,Ibuprofen,46.78,81.76
+NE_0289,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.268,0,Ibuprofen,31.53,87.35
+NE_0290,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.27,0,Ibuprofen,35.88,84.94
+NE_0291,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.193,1,Celecoxib,129.46,96.73
+NE_0292,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.432,0,Ibuprofen,39.78,80.1
+NE_0293,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.39,0,Celecoxib,123.95,78.69
+NE_0294,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.364,0,Curcumin,14.67,85.33
+NE_0295,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.349,0,Ibuprofen,40.87,78.99
+NE_0296,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.16,0,Curcumin,16.37,86.17
+NE_0297,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.254,0,Curcumin,8.35,80.99
+NE_0298,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.259,0,Curcumin,15.11,75.0
+NE_0299,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.318,0,Paclitaxel,2.27,72.13
+NE_0300,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.168,0,Curcumin,15.4,78.71
+NE_0301,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.336,0,Paclitaxel,5.16,79.1
+NE_0302,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.309,0,Celecoxib,145.34,74.24
+NE_0303,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.153,0,Curcumin,8.9,87.18
+NE_0304,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.235,0,Ibuprofen,43.98,81.68
+NE_0305,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.281,0,Celecoxib,185.69,72.33
+NE_0306,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.416,0,Paclitaxel,2.37,84.1
+NE_0307,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.181,1,Celecoxib,175.48,95.0
+NE_0308,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.375,0,Ibuprofen,41.97,70.74
+NE_0309,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.378,0,Celecoxib,169.99,80.61
+NE_0310,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.273,0,Paclitaxel,4.0,75.63
+NE_0311,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.167,0,Paclitaxel,3.14,70.34
+NE_0312,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.263,0,Ibuprofen,49.46,77.58
+NE_0313,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.153,1,Celecoxib,178.29,93.65
+NE_0314,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.251,0,Curcumin,10.7,86.1
+NE_0315,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.174,0,Curcumin,17.78,86.52
+NE_0316,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.284,0,Celecoxib,153.31,77.47
+NE_0317,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.225,1,Ibuprofen,44.95,97.82
+NE_0318,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.137,0,Curcumin,10.4,73.6
+NE_0319,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.45,0,Paclitaxel,5.91,88.35
+NE_0320,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.108,0,Paclitaxel,6.04,71.05
+NE_0321,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.201,0,Ibuprofen,41.03,82.95
+NE_0322,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.23,0,Curcumin,16.19,85.66
+NE_0323,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.158,0,Paclitaxel,4.82,74.18
+NE_0324,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.373,0,Paclitaxel,5.87,72.51
+NE_0325,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.406,0,Curcumin,16.71,84.12
+NE_0326,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.245,0,Curcumin,17.66,83.77
+NE_0327,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.359,0,Paclitaxel,3.52,73.25
+NE_0328,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.141,0,Ibuprofen,32.82,75.83
+NE_0329,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.361,0,Paclitaxel,4.3,72.03
+NE_0330,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.292,0,Paclitaxel,4.96,81.3
+NE_0331,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.308,0,Ibuprofen,36.1,75.96
+NE_0332,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.173,1,Paclitaxel,5.53,97.1
+NE_0333,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.39,0,Ibuprofen,49.05,70.19
+NE_0334,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.33,0,Paclitaxel,3.89,84.56
+NE_0335,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.25,0,Ibuprofen,40.35,70.71
+NE_0336,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.344,0,Curcumin,9.27,75.6
+NE_0337,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.4,0,Ibuprofen,31.79,77.61
+NE_0338,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.38,0,Paclitaxel,3.28,86.44
+NE_0339,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.231,1,Celecoxib,168.42,94.71
+NE_0340,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.349,0,Paclitaxel,3.32,76.83
+NE_0341,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.296,1,Paclitaxel,6.19,92.54
+NE_0342,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.424,0,Curcumin,13.84,80.83
+NE_0343,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.442,0,Celecoxib,178.54,72.68
+NE_0344,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.446,0,Paclitaxel,5.81,75.26
+NE_0345,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.28,0,Ibuprofen,41.75,88.25
+NE_0346,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.181,0,Paclitaxel,5.19,84.75
+NE_0347,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.151,1,Celecoxib,151.1,96.56
+NE_0348,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.237,0,Ibuprofen,39.98,86.06
+NE_0349,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.23,0,Ibuprofen,52.79,72.72
+NE_0350,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.182,0,Paclitaxel,6.39,71.06
+NE_0351,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.377,0,Curcumin,11.23,82.73
+NE_0352,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.21,0,Curcumin,16.25,74.78
+NE_0353,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.237,1,Celecoxib,205.55,96.0
+NE_0354,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.296,0,Curcumin,13.91,84.09
+NE_0355,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.31,0,Curcumin,16.0,86.12
+NE_0356,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.424,0,Paclitaxel,2.58,83.8
+NE_0357,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.411,0,Paclitaxel,3.53,86.0
+NE_0358,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.146,1,Celecoxib,204.15,94.66
+NE_0359,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.218,0,Curcumin,16.94,82.0
+NE_0360,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.108,1,Celecoxib,162.13,92.77
+NE_0361,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.212,0,Curcumin,12.33,76.23
+NE_0362,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.127,0,Paclitaxel,3.76,81.87
+NE_0363,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.317,0,Ibuprofen,51.41,80.56
+NE_0364,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.143,1,Celecoxib,160.11,93.39
+NE_0365,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.288,0,Curcumin,15.63,74.72
+NE_0366,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.221,0,Curcumin,11.73,78.14
+NE_0367,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.354,0,Paclitaxel,4.8,85.13
+NE_0368,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.27,1,Celecoxib,132.12,98.52
+NE_0369,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.255,0,Paclitaxel,4.51,81.26
+NE_0370,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.184,1,Paclitaxel,4.01,97.77
+NE_0371,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.438,0,Paclitaxel,3.72,86.97
+NE_0372,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.41,0,Ibuprofen,48.76,73.6
+NE_0373,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.345,0,Curcumin,9.1,83.0
+NE_0374,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.231,0,Ibuprofen,36.04,79.73
+NE_0375,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.403,0,Paclitaxel,2.94,80.42
+NE_0376,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.394,0,Paclitaxel,4.34,87.91
+NE_0377,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.156,0,Celecoxib,192.22,75.62
+NE_0378,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.195,0,Ibuprofen,36.91,84.03
+NE_0379,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.123,0,Paclitaxel,4.54,87.17
+NE_0380,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.25,0,Ibuprofen,50.01,87.98
+NE_0381,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.285,0,Ibuprofen,32.08,71.71
+NE_0382,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.118,0,Curcumin,12.58,77.56
+NE_0383,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.449,0,Ibuprofen,51.26,71.85
+NE_0384,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.313,0,Ibuprofen,51.01,72.83
+NE_0385,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.125,0,Curcumin,9.62,82.49
+NE_0386,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.212,0,Curcumin,13.48,88.45
+NE_0387,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.387,0,Paclitaxel,6.36,83.61
+NE_0388,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.251,0,Celecoxib,188.08,77.55
+NE_0389,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.218,0,Ibuprofen,46.3,84.17
+NE_0390,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.21,0,Curcumin,12.96,82.59
+NE_0391,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.332,0,Paclitaxel,5.18,82.24
+NE_0392,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.215,0,Ibuprofen,30.92,74.38
+NE_0393,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.261,0,Paclitaxel,6.34,82.71
+NE_0394,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.392,0,Celecoxib,188.52,71.09
+NE_0395,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.163,0,Celecoxib,188.96,86.94
+NE_0396,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.227,0,Paclitaxel,3.43,70.34
+NE_0397,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.403,0,Celecoxib,184.75,87.72
+NE_0398,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.118,0,Ibuprofen,46.92,74.25
+NE_0399,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.437,0,Curcumin,12.11,73.13
+NE_0400,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.358,0,Paclitaxel,4.73,86.51
+NE_0401,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.366,0,Ibuprofen,42.56,70.38
+NE_0402,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.236,0,Curcumin,14.86,82.74
+NE_0403,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.425,0,Celecoxib,183.34,70.36
+NE_0404,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.263,0,Ibuprofen,31.7,82.22
+NE_0405,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.402,0,Curcumin,10.83,82.34
+NE_0406,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.158,0,Curcumin,13.31,71.82
+NE_0407,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.296,0,Ibuprofen,42.51,82.88
+NE_0408,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.172,0,Ibuprofen,53.86,87.76
+NE_0409,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.189,0,Ibuprofen,52.03,73.69
+NE_0410,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.211,1,Celecoxib,148.67,96.61
+NE_0411,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.418,0,Celecoxib,122.17,78.29
+NE_0412,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.367,0,Ibuprofen,40.78,77.66
+NE_0413,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.241,1,Celecoxib,207.9,92.49
+NE_0414,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.356,0,Curcumin,8.11,70.88
+NE_0415,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.289,0,Paclitaxel,5.62,70.63
+NE_0416,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.222,0,Ibuprofen,31.61,70.92
+NE_0417,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.363,0,Ibuprofen,40.65,75.48
+NE_0418,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.383,0,Curcumin,15.57,76.41
+NE_0419,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.364,0,Celecoxib,159.86,83.78
+NE_0420,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.204,0,Curcumin,10.96,85.79
+NE_0421,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.431,0,Curcumin,12.68,71.88
+NE_0422,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.214,0,Paclitaxel,2.5,83.01
+NE_0423,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.12,0,Ibuprofen,43.12,79.64
+NE_0424,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.103,1,Celecoxib,147.78,96.02
+NE_0425,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.441,0,Ibuprofen,50.97,70.36
+NE_0426,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.279,0,Ibuprofen,51.98,79.03
+NE_0427,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.247,0,Ibuprofen,44.45,73.22
+NE_0428,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.156,0,Curcumin,14.4,76.32
+NE_0429,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.283,0,Curcumin,10.1,80.2
+NE_0430,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.422,0,Ibuprofen,33.87,86.74
+NE_0431,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.403,0,Ibuprofen,35.71,80.81
+NE_0432,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.197,0,Curcumin,13.9,81.14
+NE_0433,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.306,0,Celecoxib,147.75,81.99
+NE_0434,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.124,1,Celecoxib,153.89,98.01
+NE_0435,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.433,0,Ibuprofen,37.72,82.09
+NE_0436,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.272,0,Ibuprofen,33.18,82.5
+NE_0437,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.406,0,Ibuprofen,34.39,72.84
+NE_0438,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.302,0,Paclitaxel,2.19,86.63
+NE_0439,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.145,0,Ibuprofen,34.58,75.46
+NE_0440,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.125,1,Celecoxib,151.8,94.63
+NE_0441,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.128,0,Curcumin,13.95,87.82
+NE_0442,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.409,0,Paclitaxel,6.2,80.06
+NE_0443,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.222,1,Celecoxib,187.84,98.73
+NE_0444,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.223,0,Paclitaxel,4.1,70.55
+NE_0445,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.104,1,Celecoxib,188.94,92.1
+NE_0446,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.328,0,Paclitaxel,3.85,87.92
+NE_0447,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.375,0,Celecoxib,136.93,84.28
+NE_0448,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.425,0,Ibuprofen,51.03,85.29
+NE_0449,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.226,0,Ibuprofen,45.4,82.35
+NE_0450,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.423,0,Curcumin,14.67,75.04
+NE_0451,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.159,1,Ibuprofen,39.35,98.02
+NE_0452,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.282,0,Ibuprofen,44.17,84.93
+NE_0453,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.197,0,Paclitaxel,4.44,76.69
+NE_0454,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.116,0,Ibuprofen,47.51,83.71
+NE_0455,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.283,0,Curcumin,16.24,76.87
+NE_0456,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.321,0,Curcumin,17.82,70.83
+NE_0457,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.23,0,Paclitaxel,2.46,79.42
+NE_0458,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.334,0,Curcumin,8.44,74.69
+NE_0459,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.154,1,Celecoxib,203.18,98.07
+NE_0460,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.199,0,Paclitaxel,5.16,77.79
+NE_0461,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.302,0,Curcumin,16.41,79.1
+NE_0462,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.449,0,Celecoxib,147.3,81.69
+NE_0463,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.203,0,Paclitaxel,3.5,79.63
+NE_0464,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.219,0,Paclitaxel,5.95,84.61
+NE_0465,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.228,1,Celecoxib,175.78,98.07
+NE_0466,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.323,0,Celecoxib,198.3,76.86
+NE_0467,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.226,1,Celecoxib,192.86,96.3
+NE_0468,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.139,0,Paclitaxel,4.65,83.83
+NE_0469,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.132,0,Ibuprofen,43.17,82.82
+NE_0470,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.325,0,Curcumin,8.62,86.13
+NE_0471,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.297,1,Ibuprofen,35.45,95.14
+NE_0472,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.301,0,Ibuprofen,45.52,71.54
+NE_0473,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.245,0,Curcumin,16.91,78.03
+NE_0474,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.425,0,Curcumin,8.86,81.14
+NE_0475,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.407,0,Paclitaxel,3.83,80.18
+NE_0476,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.181,0,Ibuprofen,39.82,77.39
+NE_0477,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.448,0,Curcumin,17.89,75.09
+NE_0478,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.179,0,Ibuprofen,45.85,76.94
+NE_0479,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.419,0,Curcumin,17.63,84.25
+NE_0480,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.37,0,Ibuprofen,44.22,79.67
+NE_0481,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.226,0,Curcumin,13.93,81.18
+NE_0482,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.312,0,Celecoxib,145.02,73.36
+NE_0483,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.174,0,Curcumin,17.77,79.94
+NE_0484,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.37,0,Paclitaxel,5.6,71.68
+NE_0485,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.365,0,Paclitaxel,5.4,73.69
+NE_0486,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.441,0,Paclitaxel,2.76,87.61
+NE_0487,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.3,0,Ibuprofen,30.23,73.08
+NE_0488,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.374,0,Ibuprofen,52.85,74.37
+NE_0489,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.346,0,Ibuprofen,42.4,71.42
+NE_0490,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.204,0,Ibuprofen,47.9,74.29
+NE_0491,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.197,1,Ibuprofen,31.57,95.43
+NE_0492,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.186,0,Curcumin,14.35,88.22
+NE_0493,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.16,0,Curcumin,14.83,75.31
+NE_0494,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.328,0,Celecoxib,131.85,75.31
+NE_0495,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.122,0,Curcumin,16.7,83.85
+NE_0496,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.444,0,Ibuprofen,53.49,83.74
+NE_0497,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.16,1,Celecoxib,188.8,93.18
+NE_0498,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.433,0,Celecoxib,165.63,72.65
+NE_0499,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.204,0,Curcumin,12.4,74.86
+NE_0500,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.417,0,Ibuprofen,39.29,78.49
+NE_0501,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.124,0,Curcumin,8.51,75.96
+NE_0502,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.135,0,Ibuprofen,53.27,83.26
+NE_0503,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.286,1,Paclitaxel,4.31,95.02
+NE_0504,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.201,0,Paclitaxel,3.69,80.17
+NE_0505,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.226,1,Celecoxib,168.59,96.34
+NE_0506,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.447,0,Curcumin,12.11,73.11
+NE_0507,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.264,0,Ibuprofen,40.01,71.2
+NE_0508,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.439,0,Ibuprofen,35.22,77.79
+NE_0509,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.371,0,Ibuprofen,41.72,84.34
+NE_0510,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.164,1,Paclitaxel,3.98,95.65
+NE_0511,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.375,0,Paclitaxel,3.92,79.6
+NE_0512,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.283,1,Celecoxib,206.19,97.84
+NE_0513,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.448,0,Paclitaxel,3.08,87.77
+NE_0514,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.421,0,Ibuprofen,30.54,73.41
+NE_0515,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.414,0,Paclitaxel,5.82,81.33
+NE_0516,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.421,0,Paclitaxel,5.73,85.05
+NE_0517,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.194,0,Curcumin,16.87,72.27
+NE_0518,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.124,0,Ibuprofen,34.73,82.92
+NE_0519,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.216,0,Paclitaxel,4.65,72.32
+NE_0520,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.14,0,Curcumin,16.81,83.81
+NE_0521,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.319,0,Curcumin,10.35,73.36
+NE_0522,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.279,1,Paclitaxel,2.59,98.14
+NE_0523,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.132,0,Paclitaxel,2.28,82.69
+NE_0524,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.309,0,Celecoxib,198.68,79.11
+NE_0525,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.217,0,Curcumin,8.2,71.14
+NE_0526,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.283,1,Celecoxib,185.14,96.37
+NE_0527,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.37,0,Curcumin,9.51,73.52
+NE_0528,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.329,0,Celecoxib,127.6,72.49
+NE_0529,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.352,0,Curcumin,15.37,85.71
+NE_0530,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.341,0,Celecoxib,170.67,80.28
+NE_0531,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.394,0,Ibuprofen,46.7,76.44
+NE_0532,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.166,1,Celecoxib,151.87,94.22
+NE_0533,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.441,0,Paclitaxel,5.16,85.96
+NE_0534,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.372,0,Curcumin,8.06,75.81
+NE_0535,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.405,0,Celecoxib,164.87,88.08
+NE_0536,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.295,1,Celecoxib,154.87,97.18
+NE_0537,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.339,0,Celecoxib,173.01,83.62
+NE_0538,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.281,0,Curcumin,10.15,77.69
+NE_0539,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.301,0,Celecoxib,144.34,72.34
+NE_0540,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.188,1,Celecoxib,156.39,92.72
+NE_0541,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.434,0,Ibuprofen,48.33,83.68
+NE_0542,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.369,0,Curcumin,10.09,86.75
+NE_0543,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.191,1,Celecoxib,123.24,95.1
+NE_0544,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.362,0,Ibuprofen,31.32,84.79
+NE_0545,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.189,0,Curcumin,16.89,82.19
+NE_0546,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.318,0,Celecoxib,152.08,73.87
+NE_0547,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.437,0,Curcumin,17.64,78.29
+NE_0548,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.218,1,Celecoxib,144.01,99.44
+NE_0549,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.222,0,Ibuprofen,54.46,80.06
+NE_0550,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.427,0,Paclitaxel,6.25,76.66
+NE_0551,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.439,0,Celecoxib,202.04,83.2
+NE_0552,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.359,0,Celecoxib,187.37,75.32
+NE_0553,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.282,0,Ibuprofen,38.86,73.42
+NE_0554,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.323,0,Paclitaxel,6.27,76.52
+NE_0555,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.37,0,Ibuprofen,30.19,77.45
+NE_0556,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.191,0,Curcumin,15.64,86.62
+NE_0557,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.414,0,Celecoxib,184.06,70.24
+NE_0558,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.327,0,Celecoxib,158.72,80.8
+NE_0559,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.317,0,Curcumin,13.12,72.42
+NE_0560,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.345,0,Curcumin,15.83,78.39
+NE_0561,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.412,0,Curcumin,11.51,82.64
+NE_0562,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.261,0,Paclitaxel,2.53,74.11
+NE_0563,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.448,0,Celecoxib,131.86,72.29
+NE_0564,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.237,0,Curcumin,10.53,72.08
+NE_0565,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.191,1,Ibuprofen,49.02,95.68
+NE_0566,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.445,0,Celecoxib,133.77,77.82
+NE_0567,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.24,0,Paclitaxel,6.44,73.45
+NE_0568,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.402,0,Paclitaxel,2.05,87.57
+NE_0569,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.265,0,Curcumin,17.72,74.74
+NE_0570,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.397,0,Paclitaxel,5.98,84.1
+NE_0571,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.3,0,Paclitaxel,2.46,87.87
+NE_0572,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.201,1,Celecoxib,196.26,94.05
+NE_0573,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.342,0,Ibuprofen,41.94,81.1
+NE_0574,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.312,0,Ibuprofen,32.53,81.13
+NE_0575,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.186,1,Paclitaxel,5.16,97.07
+NE_0576,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.217,0,Ibuprofen,52.29,73.87
+NE_0577,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.387,0,Paclitaxel,3.39,80.31
+NE_0578,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.278,0,Curcumin,8.1,80.34
+NE_0579,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.153,0,Curcumin,17.36,73.11
+NE_0580,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.418,0,Curcumin,10.4,84.88
+NE_0581,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.312,0,Ibuprofen,34.01,78.73
+NE_0582,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.357,0,Paclitaxel,3.84,85.29
+NE_0583,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.289,1,Paclitaxel,4.9,97.27
+NE_0584,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.21,0,Curcumin,15.71,82.77
+NE_0585,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.419,0,Ibuprofen,32.19,79.84
+NE_0586,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.157,0,Curcumin,10.65,78.31
+NE_0587,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.246,0,Curcumin,10.05,71.01
+NE_0588,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.131,1,Celecoxib,168.51,93.0
+NE_0589,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.439,0,Ibuprofen,32.4,78.57
+NE_0590,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.442,0,Paclitaxel,5.2,84.23
+NE_0591,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.102,0,Curcumin,17.3,80.73
+NE_0592,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.265,1,Celecoxib,124.84,92.27
+NE_0593,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.381,0,Paclitaxel,3.73,74.27
+NE_0594,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.173,1,Celecoxib,148.17,99.42
+NE_0595,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.165,0,Curcumin,17.93,70.44
+NE_0596,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.171,0,Curcumin,17.67,75.58
+NE_0597,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.311,0,Curcumin,14.18,73.1
+NE_0598,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.368,0,Curcumin,14.01,72.61
+NE_0599,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.386,0,Ibuprofen,47.71,86.85
+NE_0600,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.292,1,Celecoxib,179.3,98.19
+NE_0601,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.271,0,Curcumin,13.51,80.77
+NE_0602,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.236,0,Curcumin,17.57,77.74
+NE_0603,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.313,0,Paclitaxel,4.23,72.33
+NE_0604,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.206,0,Ibuprofen,38.14,71.03
+NE_0605,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.347,0,Celecoxib,182.93,70.14
+NE_0606,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.273,0,Paclitaxel,4.15,85.01
+NE_0607,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.357,0,Celecoxib,132.99,74.8
+NE_0608,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.44,0,Celecoxib,160.91,81.28
+NE_0609,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.395,0,Curcumin,14.93,77.05
+NE_0610,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.271,0,Curcumin,15.82,82.51
+NE_0611,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.393,0,Celecoxib,150.84,73.54
+NE_0612,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.441,0,Paclitaxel,2.99,86.26
+NE_0613,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.138,1,Celecoxib,164.89,95.96
+NE_0614,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.353,0,Curcumin,10.24,76.79
+NE_0615,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.245,0,Curcumin,13.31,76.56
+NE_0616,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.138,0,Curcumin,9.26,76.95
+NE_0617,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.351,0,Curcumin,17.15,80.92
+NE_0618,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.382,0,Paclitaxel,2.21,82.08
+NE_0619,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.159,0,Ibuprofen,50.29,77.59
+NE_0620,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.174,0,Paclitaxel,5.52,85.96
+NE_0621,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.118,0,Ibuprofen,47.47,85.14
+NE_0622,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.156,1,Celecoxib,126.48,95.55
+NE_0623,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.24,0,Curcumin,8.57,75.8
+NE_0624,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.301,0,Paclitaxel,3.69,79.21
+NE_0625,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.278,1,Paclitaxel,5.2,99.06
+NE_0626,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.255,0,Paclitaxel,4.69,79.6
+NE_0627,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.404,0,Celecoxib,197.1,74.05
+NE_0628,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.24,0,Ibuprofen,42.24,79.21
+NE_0629,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.299,1,Ibuprofen,34.99,97.0
+NE_0630,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.144,0,Ibuprofen,49.32,71.93
+NE_0631,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.143,1,Paclitaxel,3.17,92.01
+NE_0632,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.117,1,Celecoxib,125.71,97.35
+NE_0633,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.335,0,Curcumin,9.84,73.39
+NE_0634,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.104,0,Curcumin,14.67,78.24
+NE_0635,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.322,0,Celecoxib,127.22,83.74
+NE_0636,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.171,0,Paclitaxel,2.29,72.94
+NE_0637,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.162,0,Paclitaxel,5.93,82.86
+NE_0638,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.346,0,Celecoxib,162.5,84.89
+NE_0639,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.445,0,Paclitaxel,4.77,80.6
+NE_0640,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.239,0,Curcumin,12.23,84.42
+NE_0641,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.103,0,Curcumin,10.25,72.05
+NE_0642,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.411,0,Paclitaxel,3.94,83.99
+NE_0643,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.171,0,Curcumin,10.85,85.6
+NE_0644,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.246,1,Celecoxib,127.09,97.57
+NE_0645,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.261,0,Ibuprofen,45.35,73.18
+NE_0646,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.339,0,Curcumin,10.05,87.85
+NE_0647,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.391,0,Paclitaxel,3.79,70.46
+NE_0648,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.172,0,Paclitaxel,2.33,77.67
+NE_0649,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.204,1,Celecoxib,177.05,94.2
+NE_0650,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.154,1,Ibuprofen,35.12,94.77
+NE_0651,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.153,1,Celecoxib,156.76,95.51
+NE_0652,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.34,0,Ibuprofen,49.92,72.39
+NE_0653,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.108,0,Curcumin,16.96,71.14
+NE_0654,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.302,0,Curcumin,14.52,80.25
+NE_0655,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.125,0,Curcumin,10.97,75.27
+NE_0656,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.202,0,Curcumin,17.85,81.45
+NE_0657,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.381,0,Ibuprofen,48.5,84.9
+NE_0658,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.303,0,Celecoxib,162.36,85.53
+NE_0659,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.335,0,Paclitaxel,5.03,86.24
+NE_0660,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.362,0,Ibuprofen,47.42,87.55
+NE_0661,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.381,0,Paclitaxel,3.45,72.71
+NE_0662,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.245,0,Curcumin,10.88,75.28
+NE_0663,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.306,0,Celecoxib,145.36,81.7
+NE_0664,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.36,0,Celecoxib,173.04,87.78
+NE_0665,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.23,0,Curcumin,17.74,75.15
+NE_0666,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.319,0,Ibuprofen,32.18,71.8
+NE_0667,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.131,0,Curcumin,13.56,84.28
+NE_0668,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.181,0,Curcumin,17.55,72.47
+NE_0669,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.26,1,Ibuprofen,42.9,97.54
+NE_0670,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.16,0,Curcumin,11.33,72.2
+NE_0671,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.318,0,Curcumin,9.41,84.39
+NE_0672,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.357,0,Celecoxib,147.82,70.9
+NE_0673,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.347,0,Curcumin,16.24,76.29
+NE_0674,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.221,0,Curcumin,12.76,86.26
+NE_0675,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.211,0,Paclitaxel,3.44,74.27
+NE_0676,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.131,1,Celecoxib,158.8,94.58
+NE_0677,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.344,0,Paclitaxel,4.43,85.07
+NE_0678,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.134,1,Celecoxib,145.0,95.7
+NE_0679,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.216,0,Paclitaxel,5.71,86.04
+NE_0680,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.167,0,Curcumin,17.95,72.57
+NE_0681,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.138,0,Paclitaxel,2.34,84.95
+NE_0682,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.404,0,Ibuprofen,42.18,81.16
+NE_0683,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.403,0,Curcumin,16.35,88.04
+NE_0684,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.111,0,Curcumin,8.13,79.37
+NE_0685,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.319,0,Paclitaxel,4.15,86.2
+NE_0686,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.427,0,Celecoxib,204.2,78.7
+NE_0687,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.267,1,Celecoxib,163.12,98.42
+NE_0688,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.28,1,Celecoxib,165.63,98.77
+NE_0689,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.285,0,Curcumin,12.93,76.78
+NE_0690,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.365,0,Ibuprofen,42.84,73.32
+NE_0691,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.316,0,Paclitaxel,2.77,72.9
+NE_0692,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.299,1,Celecoxib,179.29,94.69
+NE_0693,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.347,0,Paclitaxel,5.56,87.77
+NE_0694,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.439,0,Curcumin,16.87,81.67
+NE_0695,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.228,1,Ibuprofen,53.35,92.91
+NE_0696,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.388,0,Ibuprofen,33.82,75.61
+NE_0697,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.417,0,Ibuprofen,49.54,82.48
+NE_0698,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.334,0,Curcumin,8.97,74.9
+NE_0699,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.405,0,Curcumin,17.8,87.01
+NE_0700,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.259,0,Ibuprofen,37.31,88.44
+NE_0701,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.245,1,Celecoxib,153.03,92.73
+NE_0702,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.269,0,Ibuprofen,48.34,71.72
+NE_0703,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.136,0,Ibuprofen,33.11,87.84
+NE_0704,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.183,0,Ibuprofen,45.25,86.12
+NE_0705,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.105,0,Curcumin,17.77,81.17
+NE_0706,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.102,1,Paclitaxel,3.88,95.77
+NE_0707,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.272,0,Paclitaxel,2.37,84.69
+NE_0708,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.137,0,Curcumin,8.56,75.96
+NE_0709,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.369,0,Curcumin,9.21,79.29
+NE_0710,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.399,0,Curcumin,16.62,73.04
+NE_0711,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.246,1,Celecoxib,191.5,92.46
+NE_0712,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.174,0,Paclitaxel,4.69,82.52
+NE_0713,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.133,0,Ibuprofen,33.21,79.1
+NE_0714,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.109,0,Paclitaxel,5.58,86.57
+NE_0715,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.226,0,Ibuprofen,42.16,74.9
+NE_0716,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.138,1,Paclitaxel,3.52,93.4
+NE_0717,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.166,0,Curcumin,14.39,73.61
+NE_0718,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.224,0,Curcumin,14.0,74.26
+NE_0719,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.174,1,Celecoxib,170.68,93.04
+NE_0720,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.315,0,Ibuprofen,35.34,86.34
+NE_0721,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.403,0,Curcumin,9.62,70.14
+NE_0722,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.182,0,Ibuprofen,34.35,73.72
+NE_0723,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.231,0,Curcumin,11.32,83.79
+NE_0724,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.362,0,Celecoxib,185.96,70.79
+NE_0725,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.324,0,Ibuprofen,31.37,71.77
+NE_0726,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.417,0,Curcumin,13.53,73.52
+NE_0727,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.436,0,Celecoxib,183.03,75.21
+NE_0728,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.343,0,Curcumin,17.07,86.24
+NE_0729,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.351,0,Celecoxib,136.63,77.33
+NE_0730,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.441,0,Curcumin,9.38,84.37
+NE_0731,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.299,0,Curcumin,15.96,87.78
+NE_0732,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.291,0,Ibuprofen,46.46,87.91
+NE_0733,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.353,0,Curcumin,9.45,76.87
+NE_0734,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.181,0,Curcumin,15.22,77.39
+NE_0735,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.446,0,Curcumin,10.23,78.16
+NE_0736,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.232,1,Celecoxib,158.19,98.56
+NE_0737,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.441,0,Celecoxib,151.7,70.65
+NE_0738,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.358,0,Celecoxib,173.52,77.85
+NE_0739,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.306,0,Paclitaxel,5.1,87.25
+NE_0740,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.341,0,Ibuprofen,41.63,71.81
+NE_0741,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.232,1,Ibuprofen,38.39,95.84
+NE_0742,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.342,0,Ibuprofen,46.25,88.27
+NE_0743,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.259,1,Celecoxib,197.93,93.77
+NE_0744,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.258,1,Celecoxib,161.37,98.99
+NE_0745,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.129,1,Paclitaxel,2.47,95.43
+NE_0746,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.163,0,Paclitaxel,3.62,72.8
+NE_0747,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.181,0,Curcumin,16.85,77.37
+NE_0748,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.198,1,Celecoxib,193.55,98.51
+NE_0749,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.106,0,Curcumin,14.65,73.28
+NE_0750,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.294,0,Paclitaxel,5.51,82.61
+NE_0751,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.369,0,Celecoxib,174.57,77.9
+NE_0752,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.352,0,Curcumin,15.84,70.44
+NE_0753,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.403,0,Paclitaxel,3.34,71.54
+NE_0754,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.224,0,Curcumin,12.04,73.54
+NE_0755,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.3,0,Curcumin,10.76,87.99
+NE_0756,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.236,0,Curcumin,12.59,71.01
+NE_0757,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.179,1,Celecoxib,155.54,92.4
+NE_0758,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.372,0,Paclitaxel,4.01,81.19
+NE_0759,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.144,0,Curcumin,17.43,81.68
+NE_0760,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.12,1,Paclitaxel,2.94,94.83
+NE_0761,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.446,0,Paclitaxel,5.03,71.18
+NE_0762,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.229,0,Curcumin,12.6,73.28
+NE_0763,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.124,0,Curcumin,12.99,79.39
+NE_0764,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.387,0,Ibuprofen,54.89,83.83
+NE_0765,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.29,1,Paclitaxel,3.14,96.28
+NE_0766,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.428,0,Ibuprofen,41.41,82.16
+NE_0767,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.111,0,Paclitaxel,3.11,83.14
+NE_0768,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.412,0,Curcumin,10.21,80.88
+NE_0769,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.115,0,Ibuprofen,44.88,76.8
+NE_0770,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.189,0,Ibuprofen,47.65,79.96
+NE_0771,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.402,0,Curcumin,11.75,75.59
+NE_0772,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.193,0,Curcumin,8.77,82.23
+NE_0773,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.222,0,Curcumin,17.39,72.46
+NE_0774,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.323,0,Curcumin,15.03,76.58
+NE_0775,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.25,0,Curcumin,9.7,72.41
+NE_0776,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.37,0,Paclitaxel,5.59,71.67
+NE_0777,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.304,0,Curcumin,13.04,81.18
+NE_0778,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.22,0,Paclitaxel,6.46,78.35
+NE_0779,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.224,1,Celecoxib,145.75,95.47
+NE_0780,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.343,0,Curcumin,16.99,84.06
+NE_0781,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.129,1,Celecoxib,120.53,98.85
+NE_0782,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.353,0,Curcumin,15.08,78.06
+NE_0783,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.216,1,Celecoxib,159.22,95.46
+NE_0784,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.321,0,Paclitaxel,4.53,78.47
+NE_0785,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.192,0,Celecoxib,195.59,86.4
+NE_0786,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.335,0,Curcumin,8.74,86.37
+NE_0787,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.243,1,Celecoxib,146.38,95.94
+NE_0788,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.189,1,Celecoxib,184.56,96.77
+NE_0789,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.211,0,Curcumin,12.51,84.33
+NE_0790,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.367,0,Curcumin,17.91,82.12
+NE_0791,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.316,0,Curcumin,8.62,75.69
+NE_0792,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.249,1,Celecoxib,208.89,94.84
+NE_0793,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.403,0,Curcumin,16.37,84.41
+NE_0794,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.331,0,Curcumin,12.28,71.73
+NE_0795,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.224,1,Celecoxib,200.73,97.43
+NE_0796,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.116,0,Ibuprofen,48.09,87.92
+NE_0797,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.332,0,Curcumin,9.81,80.87
+NE_0798,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.255,1,Ibuprofen,49.27,93.54
+NE_0799,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.25,1,Celecoxib,170.06,97.64
+NE_0800,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.102,1,Celecoxib,142.16,92.45
+NE_0801,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.254,0,Paclitaxel,3.12,77.12
+NE_0802,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.257,1,Paclitaxel,4.72,98.61
+NE_0803,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.319,0,Paclitaxel,4.89,84.47
+NE_0804,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.358,0,Ibuprofen,41.74,75.02
+NE_0805,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.39,0,Celecoxib,195.13,80.58
+NE_0806,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.331,0,Celecoxib,206.2,80.63
+NE_0807,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.222,0,Curcumin,16.43,87.06
+NE_0808,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.3,0,Ibuprofen,37.55,71.62
+NE_0809,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.372,0,Ibuprofen,38.38,77.38
+NE_0810,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.232,0,Paclitaxel,6.07,77.97
+NE_0811,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.42,0,Ibuprofen,53.49,83.48
+NE_0812,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.17,1,Celecoxib,169.48,93.88
+NE_0813,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.193,1,Celecoxib,144.36,96.35
+NE_0814,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.139,1,Celecoxib,152.19,96.62
+NE_0815,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.382,0,Ibuprofen,43.08,76.55
+NE_0816,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.347,0,Curcumin,14.82,80.98
+NE_0817,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.193,1,Celecoxib,159.84,98.13
+NE_0818,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.314,0,Paclitaxel,3.85,76.28
+NE_0819,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.217,1,Ibuprofen,54.8,96.28
+NE_0820,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.141,0,Curcumin,16.34,70.66
+NE_0821,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.438,0,Paclitaxel,5.91,83.65
+NE_0822,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.258,1,Paclitaxel,6.08,98.54
+NE_0823,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.275,0,Ibuprofen,44.93,78.56
+NE_0824,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.313,0,Celecoxib,139.45,85.42
+NE_0825,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.247,0,Ibuprofen,40.6,79.49
+NE_0826,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.362,0,Paclitaxel,4.77,81.84
+NE_0827,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.225,1,Celecoxib,152.21,95.95
+NE_0828,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.282,0,Curcumin,17.72,78.4
+NE_0829,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.408,0,Paclitaxel,2.13,79.95
+NE_0830,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.123,1,Paclitaxel,2.84,95.36
+NE_0831,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.35,0,Ibuprofen,54.96,71.84
+NE_0832,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.379,0,Paclitaxel,4.15,76.27
+NE_0833,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.362,0,Paclitaxel,3.79,74.66
+NE_0834,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.416,0,Paclitaxel,6.44,78.04
+NE_0835,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.16,0,Curcumin,14.16,78.65
+NE_0836,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.227,0,Curcumin,9.11,83.12
+NE_0837,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.245,0,Paclitaxel,4.42,82.73
+NE_0838,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.272,0,Ibuprofen,35.33,76.55
+NE_0839,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.179,0,Paclitaxel,6.2,80.44
+NE_0840,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.203,0,Ibuprofen,50.67,75.72
+NE_0841,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.41,0,Curcumin,12.02,86.08
+NE_0842,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.298,0,Curcumin,10.92,73.29
+NE_0843,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.155,0,Curcumin,14.76,73.0
+NE_0844,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.242,1,Paclitaxel,6.26,93.17
+NE_0845,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.241,0,Curcumin,16.62,84.83
+NE_0846,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.251,0,Paclitaxel,6.4,80.33
+NE_0847,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.202,1,Paclitaxel,4.1,92.6
+NE_0848,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.307,0,Ibuprofen,49.09,81.53
+NE_0849,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.295,0,Ibuprofen,42.49,79.95
+NE_0850,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.257,1,Celecoxib,182.53,97.78
+NE_0851,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.209,0,Ibuprofen,44.53,87.34
+NE_0852,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.103,1,Celecoxib,138.02,98.07
+NE_0853,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.318,0,Celecoxib,150.74,77.72
+NE_0854,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.339,0,Ibuprofen,37.19,72.15
+NE_0855,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.373,0,Celecoxib,165.97,88.14
+NE_0856,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.191,0,Ibuprofen,44.73,76.9
+NE_0857,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.199,1,Paclitaxel,5.72,92.45
+NE_0858,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.25,1,Celecoxib,124.04,95.05
+NE_0859,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.218,1,Celecoxib,165.99,94.41
+NE_0860,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.311,0,Curcumin,11.46,73.9
+NE_0861,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.152,0,Ibuprofen,36.75,72.52
+NE_0862,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.139,0,Paclitaxel,3.85,74.44
+NE_0863,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.329,0,Celecoxib,207.15,70.9
+NE_0864,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.236,0,Curcumin,17.4,71.57
+NE_0865,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.14,0,Ibuprofen,37.04,77.11
+NE_0866,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.279,0,Curcumin,15.15,79.36
+NE_0867,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.148,0,Curcumin,12.07,81.32
+NE_0868,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.285,0,Paclitaxel,2.04,79.95
+NE_0869,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.316,0,Paclitaxel,5.79,78.41
+NE_0870,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.371,0,Celecoxib,160.96,82.99
+NE_0871,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.149,1,Paclitaxel,4.74,93.63
+NE_0872,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.319,0,Paclitaxel,2.65,81.6
+NE_0873,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.228,0,Curcumin,13.08,82.69
+NE_0874,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.423,0,Curcumin,16.21,72.02
+NE_0875,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.234,0,Curcumin,14.2,78.34
+NE_0876,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.319,0,Ibuprofen,40.35,75.83
+NE_0877,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.191,0,Paclitaxel,3.03,72.57
+NE_0878,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.14,0,Curcumin,9.69,78.8
+NE_0879,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.153,1,Celecoxib,157.82,97.32
+NE_0880,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.24,0,Paclitaxel,2.24,72.15
+NE_0881,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.154,0,Ibuprofen,52.63,76.11
+NE_0882,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.444,0,Celecoxib,165.16,77.22
+NE_0883,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.392,0,Ibuprofen,53.83,86.78
+NE_0884,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.124,0,Ibuprofen,33.01,84.29
+NE_0885,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.388,0,Curcumin,11.31,84.92
+NE_0886,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.133,0,Ibuprofen,30.3,72.04
+NE_0887,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.371,0,Curcumin,14.07,85.83
+NE_0888,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.344,0,Ibuprofen,40.97,81.23
+NE_0889,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.241,1,Celecoxib,120.73,94.95
+NE_0890,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.265,1,Celecoxib,188.33,97.53
+NE_0891,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.43,0,Paclitaxel,5.07,71.26
+NE_0892,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.36,0,Curcumin,16.84,71.64
+NE_0893,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.177,0,Paclitaxel,3.55,72.22
+NE_0894,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.417,0,Curcumin,17.62,71.31
+NE_0895,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.205,1,Celecoxib,164.43,93.15
+NE_0896,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.252,1,Celecoxib,185.7,92.83
+NE_0897,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.436,0,Celecoxib,122.6,86.84
+NE_0898,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.224,0,Ibuprofen,54.33,86.82
+NE_0899,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.207,1,Paclitaxel,5.63,94.21
+NE_0900,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.155,0,Ibuprofen,31.27,71.24
+NE_0901,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.283,0,Ibuprofen,34.62,86.45
+NE_0902,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.445,0,Ibuprofen,44.39,75.62
+NE_0903,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.263,1,Celecoxib,149.91,99.01
+NE_0904,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.407,0,Paclitaxel,2.92,73.92
+NE_0905,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.252,1,Celecoxib,186.44,96.82
+NE_0906,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.183,0,Curcumin,12.5,82.43
+NE_0907,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.392,0,Celecoxib,189.41,72.89
+NE_0908,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.24,0,Ibuprofen,37.55,78.44
+NE_0909,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.196,0,Curcumin,16.71,83.1
+NE_0910,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.213,0,Curcumin,11.44,80.37
+NE_0911,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.326,0,Ibuprofen,45.81,73.3
+NE_0912,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.137,1,Paclitaxel,2.08,92.66
+NE_0913,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.4,0,Paclitaxel,2.79,83.14
+NE_0914,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.332,0,Celecoxib,198.96,85.07
+NE_0915,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.255,0,Curcumin,15.04,78.77
+NE_0916,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.126,1,Celecoxib,124.61,93.83
+NE_0917,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.418,0,Curcumin,12.52,74.62
+NE_0918,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.131,0,Ibuprofen,37.74,84.53
+NE_0919,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.104,1,Paclitaxel,6.28,98.4
+NE_0920,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.113,0,Ibuprofen,45.61,70.54
+NE_0921,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.336,0,Celecoxib,161.62,77.42
+NE_0922,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.162,1,Celecoxib,167.3,96.23
+NE_0923,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.352,0,Paclitaxel,3.12,80.76
+NE_0924,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.123,1,Paclitaxel,2.12,92.11
+NE_0925,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.131,0,Curcumin,9.32,85.49
+NE_0926,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.441,0,Curcumin,9.03,83.82
+NE_0927,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.336,0,Ibuprofen,50.57,74.53
+NE_0928,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.308,0,Ibuprofen,43.61,81.03
+NE_0929,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.367,0,Paclitaxel,3.07,71.97
+NE_0930,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.278,0,Curcumin,15.41,88.18
+NE_0931,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.199,1,Celecoxib,157.2,98.71
+NE_0932,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.361,0,Paclitaxel,5.42,71.93
+NE_0933,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.356,0,Ibuprofen,39.42,70.18
+NE_0934,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.235,1,Paclitaxel,4.73,96.75
+NE_0935,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.404,0,Ibuprofen,49.99,83.15
+NE_0936,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.32,0,Curcumin,16.27,84.93
+NE_0937,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.285,0,Paclitaxel,2.88,87.99
+NE_0938,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.127,1,Paclitaxel,3.54,97.9
+NE_0939,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.296,1,Celecoxib,179.3,93.65
+NE_0940,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.268,0,Curcumin,12.37,71.35
+NE_0941,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.441,0,Curcumin,17.74,72.3
+NE_0942,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.265,0,Ibuprofen,50.12,78.43
+NE_0943,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.24,0,Paclitaxel,3.92,82.91
+NE_0944,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.432,0,Celecoxib,179.4,79.44
+NE_0945,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.432,0,Paclitaxel,5.51,73.02
+NE_0946,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.172,1,Celecoxib,204.05,92.14
+NE_0947,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.186,1,Paclitaxel,3.28,98.55
+NE_0948,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.298,0,Ibuprofen,44.8,85.1
+NE_0949,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.411,0,Paclitaxel,2.77,87.51
+NE_0950,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.42,0,Curcumin,14.53,78.34
+NE_0951,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.261,1,Celecoxib,154.54,96.52
+NE_0952,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.3,0,Curcumin,17.85,71.21
+NE_0953,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.194,0,Ibuprofen,50.33,88.1
+NE_0954,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.379,0,Celecoxib,141.67,86.29
+NE_0955,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.441,0,Paclitaxel,4.45,77.33
+NE_0956,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.235,0,Celecoxib,123.82,86.47
+NE_0957,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.376,0,Celecoxib,200.58,84.29
+NE_0958,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.292,0,Ibuprofen,40.93,76.37
+NE_0959,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.294,0,Celecoxib,120.71,80.0
+NE_0960,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.408,0,Curcumin,11.6,81.57
+NE_0961,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.351,0,Paclitaxel,4.84,72.68
+NE_0962,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.201,1,Celecoxib,149.89,95.46
+NE_0963,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.161,1,Celecoxib,192.29,92.34
+NE_0964,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.196,1,Celecoxib,191.05,92.78
+NE_0965,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.363,0,Ibuprofen,36.26,78.69
+NE_0966,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.388,0,Paclitaxel,4.7,72.86
+NE_0967,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.138,0,Paclitaxel,6.25,84.72
+NE_0968,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.393,0,Curcumin,13.82,82.79
+NE_0969,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.353,0,Paclitaxel,5.3,77.82
+NE_0970,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.196,0,Paclitaxel,3.26,80.68
+NE_0971,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.206,0,Ibuprofen,31.8,85.83
+NE_0972,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.305,0,Ibuprofen,46.12,78.57
+NE_0973,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.295,0,Curcumin,11.64,85.7
+NE_0974,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.437,0,Celecoxib,162.22,73.01
+NE_0975,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.319,0,Ibuprofen,46.01,80.85
+NE_0976,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.283,0,Curcumin,9.85,74.38
+NE_0977,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.326,0,Paclitaxel,3.0,73.07
+NE_0978,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.429,0,Celecoxib,203.19,86.9
+NE_0979,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.309,0,Ibuprofen,53.41,87.91
+NE_0980,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.23,0,Curcumin,17.82,81.71
+NE_0981,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.167,0,Paclitaxel,4.44,86.76
+NE_0982,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.187,0,Paclitaxel,4.04,84.05
+NE_0983,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.42,0,Celecoxib,180.13,83.05
+NE_0984,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.116,0,Ibuprofen,39.71,84.9
+NE_0985,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.391,0,Celecoxib,129.45,88.02
+NE_0986,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.386,0,Ibuprofen,30.17,86.19
+NE_0987,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.337,0,Curcumin,17.01,85.64
+NE_0988,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.191,0,Ibuprofen,54.95,83.02
+NE_0989,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.255,0,Ibuprofen,45.36,81.87
+NE_0990,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.347,0,Curcumin,14.59,75.61
+NE_0991,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.348,0,Paclitaxel,2.29,79.97
+NE_0992,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.337,0,Ibuprofen,51.6,73.16
+NE_0993,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.364,0,Paclitaxel,4.41,80.99
+NE_0994,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.127,1,Paclitaxel,6.26,98.84
+NE_0995,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.182,1,Celecoxib,170.17,92.04
+NE_0996,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.365,0,Ibuprofen,35.31,82.57
+NE_0997,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.412,0,Curcumin,10.49,74.81
+NE_0998,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.251,0,Ibuprofen,46.38,74.71
+NE_0999,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.407,0,Curcumin,11.43,83.29
+NE_1000,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.173,0,Celecoxib,177.47,86.56
+NE_1001,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.251,0,Paclitaxel,4.27,70.69
+NE_1002,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.325,0,Paclitaxel,6.41,80.23
+NE_1003,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.176,0,Paclitaxel,5.84,78.3
+NE_1004,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.43,0,Ibuprofen,41.15,71.15
+NE_1005,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.121,1,Celecoxib,183.18,97.86
+NE_1006,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.25,0,Paclitaxel,4.69,74.82
+NE_1007,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.191,0,Ibuprofen,34.51,77.22
+NE_1008,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.403,0,Paclitaxel,2.73,76.22
+NE_1009,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.321,0,Curcumin,9.36,74.37
+NE_1010,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.274,1,Paclitaxel,2.9,98.14
+NE_1011,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.269,0,Curcumin,8.56,76.04
+NE_1012,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.449,0,Celecoxib,194.32,85.45
+NE_1013,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.348,0,Paclitaxel,6.18,86.37
+NE_1014,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.41,0,Paclitaxel,2.66,70.75
+NE_1015,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.185,0,Paclitaxel,6.15,83.19
+NE_1016,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.37,0,Paclitaxel,5.6,76.42
+NE_1017,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.238,0,Curcumin,12.24,88.11
+NE_1018,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.276,1,Paclitaxel,5.8,94.33
+NE_1019,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.402,0,Paclitaxel,3.18,75.25
+NE_1020,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.251,0,Ibuprofen,33.26,80.4
+NE_1021,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.218,0,Curcumin,17.03,75.72
+NE_1022,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.38,0,Curcumin,12.2,76.53
+NE_1023,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.44,0,Ibuprofen,52.64,86.52
+NE_1024,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.144,0,Curcumin,10.96,79.8
+NE_1025,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.407,0,Celecoxib,179.95,84.45
+NE_1026,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.202,0,Curcumin,8.32,73.67
+NE_1027,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.111,0,Paclitaxel,4.55,86.99
+NE_1028,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.428,0,Ibuprofen,31.59,70.47
+NE_1029,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.321,0,Curcumin,17.82,72.43
+NE_1030,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.162,1,Paclitaxel,6.07,96.32
+NE_1031,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.345,0,Ibuprofen,43.65,83.22
+NE_1032,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.387,0,Curcumin,15.65,79.42
+NE_1033,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.417,0,Curcumin,13.88,86.78
+NE_1034,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.382,0,Ibuprofen,35.05,80.21
+NE_1035,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.202,0,Curcumin,14.1,85.89
+NE_1036,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.422,0,Curcumin,11.01,74.24
+NE_1037,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.355,0,Curcumin,8.25,71.95
+NE_1038,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.207,0,Curcumin,9.6,74.24
+NE_1039,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.277,1,Celecoxib,196.29,92.62
+NE_1040,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.231,0,Ibuprofen,34.33,87.16
+NE_1041,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.424,0,Celecoxib,166.66,75.36
+NE_1042,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.295,1,Celecoxib,121.45,94.3
+NE_1043,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.382,0,Celecoxib,120.82,77.25
+NE_1044,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.414,0,Celecoxib,174.48,83.93
+NE_1045,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.231,0,Ibuprofen,32.52,74.71
+NE_1046,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.333,0,Ibuprofen,31.04,76.48
+NE_1047,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.219,1,Celecoxib,173.48,94.48
+NE_1048,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.244,0,Paclitaxel,3.46,78.64
+NE_1049,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.365,0,Curcumin,12.26,81.03
+NE_1050,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.324,0,Ibuprofen,36.81,76.87
+NE_1051,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.396,0,Celecoxib,121.42,82.76
+NE_1052,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.422,0,Ibuprofen,31.21,79.07
+NE_1053,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.309,0,Ibuprofen,30.36,88.05
+NE_1054,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.165,0,Ibuprofen,32.13,76.7
+NE_1055,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.345,0,Paclitaxel,2.64,83.79
+NE_1056,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.213,1,Celecoxib,171.23,95.57
+NE_1057,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.317,0,Paclitaxel,3.26,74.58
+NE_1058,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.11,1,Paclitaxel,4.09,95.35
+NE_1059,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.427,0,Celecoxib,142.28,82.19
+NE_1060,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.348,0,Curcumin,17.2,81.51
+NE_1061,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.22,0,Paclitaxel,3.35,71.61
+NE_1062,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.149,1,Celecoxib,153.72,92.34
+NE_1063,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.306,0,Curcumin,17.96,74.87
+NE_1064,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.322,0,Ibuprofen,41.91,76.14
+NE_1065,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.233,0,Curcumin,9.97,80.69
+NE_1066,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.115,1,Celecoxib,160.86,97.32
+NE_1067,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.418,0,Paclitaxel,4.15,75.73
+NE_1068,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.401,0,Celecoxib,160.67,87.29
+NE_1069,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.335,0,Ibuprofen,54.34,84.42
+NE_1070,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.182,1,Celecoxib,208.33,95.04
+NE_1071,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.377,0,Curcumin,14.89,85.75
+NE_1072,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.353,0,Curcumin,8.27,77.26
+NE_1073,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.224,0,Ibuprofen,40.51,84.12
+NE_1074,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.26,1,Celecoxib,201.96,92.28
+NE_1075,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.418,0,Paclitaxel,4.83,73.07
+NE_1076,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.321,0,Ibuprofen,45.47,83.28
+NE_1077,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.279,1,Celecoxib,125.55,96.87
+NE_1078,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.164,1,Celecoxib,129.38,99.23
+NE_1079,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.349,0,Ibuprofen,41.59,85.65
+NE_1080,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.276,1,Ibuprofen,49.39,97.58
+NE_1081,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.346,0,Ibuprofen,31.85,86.68
+NE_1082,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.193,0,Ibuprofen,45.0,77.92
+NE_1083,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.159,1,Celecoxib,136.92,93.95
+NE_1084,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.297,1,Paclitaxel,4.21,94.06
+NE_1085,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.207,1,Celecoxib,126.9,95.77
+NE_1086,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.333,0,Paclitaxel,5.85,73.95
+NE_1087,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.206,0,Curcumin,9.06,72.26
+NE_1088,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.273,0,Curcumin,16.64,74.54
+NE_1089,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.311,0,Ibuprofen,44.44,73.36
+NE_1090,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.381,0,Ibuprofen,48.14,82.55
+NE_1091,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.416,0,Celecoxib,126.17,84.3
+NE_1092,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.166,0,Paclitaxel,3.01,72.76
+NE_1093,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.12,0,Curcumin,13.49,72.08
+NE_1094,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.107,1,Celecoxib,193.86,97.74
+NE_1095,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.196,1,Celecoxib,163.08,98.43
+NE_1096,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.435,0,Ibuprofen,50.98,84.6
+NE_1097,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.293,1,Ibuprofen,45.45,96.85
+NE_1098,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.198,0,Curcumin,8.26,70.62
+NE_1099,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.322,0,Celecoxib,173.54,87.7
+NE_1100,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.194,0,Paclitaxel,4.52,74.16
+NE_1101,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.115,1,Paclitaxel,2.69,92.65
+NE_1102,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.263,0,Ibuprofen,51.04,71.57
+NE_1103,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.341,0,Curcumin,10.64,73.71
+NE_1104,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.358,0,Curcumin,13.49,74.52
+NE_1105,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.336,0,Curcumin,14.9,83.19
+NE_1106,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.315,0,Celecoxib,139.38,80.58
+NE_1107,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.237,0,Ibuprofen,51.36,85.79
+NE_1108,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.221,1,Ibuprofen,44.19,92.5
+NE_1109,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.288,1,Paclitaxel,2.09,97.01
+NE_1110,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.421,0,Curcumin,15.4,86.93
+NE_1111,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.386,0,Paclitaxel,4.95,72.83
+NE_1112,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.279,0,Curcumin,16.25,77.85
+NE_1113,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.24,0,Paclitaxel,3.78,76.0
+NE_1114,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.406,0,Ibuprofen,30.43,78.46
+NE_1115,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.45,0,Curcumin,14.23,77.09
+NE_1116,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.138,1,Paclitaxel,4.34,96.65
+NE_1117,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.246,1,Celecoxib,121.99,97.87
+NE_1118,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.212,1,Celecoxib,141.99,96.46
+NE_1119,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.162,0,Paclitaxel,4.26,78.75
+NE_1120,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.318,0,Ibuprofen,45.48,77.51
+NE_1121,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.312,0,Paclitaxel,5.94,75.82
+NE_1122,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.177,0,Ibuprofen,37.84,76.84
+NE_1123,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.236,0,Curcumin,8.93,87.38
+NE_1124,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.415,0,Curcumin,15.15,71.69
+NE_1125,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.429,0,Ibuprofen,32.44,77.59
+NE_1126,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.211,0,Curcumin,9.92,87.14
+NE_1127,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.144,0,Curcumin,14.72,79.65
+NE_1128,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.382,0,Curcumin,11.76,75.85
+NE_1129,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.343,0,Ibuprofen,34.41,83.12
+NE_1130,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.121,0,Ibuprofen,50.28,83.4
+NE_1131,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.124,1,Celecoxib,147.94,98.8
+NE_1132,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.163,0,Ibuprofen,39.94,77.09
+NE_1133,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.134,1,Celecoxib,164.22,97.98
+NE_1134,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.347,0,Paclitaxel,2.38,72.93
+NE_1135,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.388,0,Curcumin,12.52,86.25
+NE_1136,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.398,0,Ibuprofen,46.06,74.34
+NE_1137,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.281,0,Ibuprofen,52.25,80.04
+NE_1138,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.376,0,Ibuprofen,53.02,73.1
+NE_1139,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.225,0,Paclitaxel,4.22,87.88
+NE_1140,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.306,0,Paclitaxel,3.97,85.6
+NE_1141,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.366,0,Celecoxib,120.91,80.01
+NE_1142,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.356,0,Curcumin,17.68,85.56
+NE_1143,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.36,0,Paclitaxel,4.6,79.6
+NE_1144,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.169,1,Celecoxib,199.32,92.58
+NE_1145,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.27,0,Curcumin,17.1,87.24
+NE_1146,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.231,0,Ibuprofen,36.59,71.4
+NE_1147,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.28,1,Celecoxib,163.85,93.43
+NE_1148,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.194,1,Paclitaxel,5.48,92.69
+NE_1149,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.363,0,Curcumin,16.48,81.51
+NE_1150,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.264,0,Curcumin,8.02,70.67
+NE_1151,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.338,0,Ibuprofen,53.52,72.42
+NE_1152,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.333,0,Celecoxib,157.97,70.23
+NE_1153,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.224,0,Paclitaxel,6.28,70.85
+NE_1154,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.154,1,Ibuprofen,47.24,99.49
+NE_1155,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.201,1,Celecoxib,129.45,93.93
+NE_1156,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.259,1,Paclitaxel,2.11,97.14
+NE_1157,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.208,1,Celecoxib,165.94,94.29
+NE_1158,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.127,0,Ibuprofen,47.5,88.08
+NE_1159,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.343,0,Ibuprofen,53.08,84.67
+NE_1160,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.422,0,Curcumin,17.6,78.91
+NE_1161,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.268,0,Paclitaxel,2.54,83.74
+NE_1162,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.429,0,Paclitaxel,3.9,80.64
+NE_1163,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.44,0,Celecoxib,166.03,81.02
+NE_1164,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.42,0,Celecoxib,201.56,76.95
+NE_1165,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.262,0,Curcumin,11.34,70.19
+NE_1166,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.441,0,Celecoxib,154.85,74.41
+NE_1167,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.259,0,Curcumin,15.68,73.41
+NE_1168,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.431,0,Celecoxib,175.06,78.74
+NE_1169,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.396,0,Curcumin,15.57,88.07
+NE_1170,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.347,0,Celecoxib,179.83,84.69
+NE_1171,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.288,0,Curcumin,8.31,74.11
+NE_1172,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.217,0,Curcumin,9.43,81.99
+NE_1173,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.207,0,Paclitaxel,3.27,76.84
+NE_1174,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.223,0,Ibuprofen,30.51,87.09
+NE_1175,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.406,0,Celecoxib,130.25,87.51
+NE_1176,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.272,0,Ibuprofen,50.72,80.24
+NE_1177,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.227,1,Paclitaxel,3.29,95.38
+NE_1178,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.16,1,Celecoxib,132.13,93.04
+NE_1179,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.291,0,Curcumin,8.33,85.76
+NE_1180,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.142,0,Paclitaxel,2.4,88.04
+NE_1181,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.318,0,Ibuprofen,48.47,76.51
+NE_1182,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.278,0,Curcumin,11.52,83.28
+NE_1183,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.364,0,Curcumin,12.39,85.34
+NE_1184,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.221,1,Celecoxib,139.74,94.78
+NE_1185,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.348,0,Ibuprofen,47.51,70.37
+NE_1186,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.423,0,Paclitaxel,3.48,78.0
+NE_1187,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.102,0,Ibuprofen,52.34,81.78
+NE_1188,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.166,0,Paclitaxel,4.73,81.11
+NE_1189,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.116,1,Ibuprofen,33.98,96.41
+NE_1190,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.326,0,Curcumin,10.14,71.16
+NE_1191,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.194,0,Curcumin,17.88,71.62
+NE_1192,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.124,0,Ibuprofen,49.44,88.45
+NE_1193,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.278,0,Paclitaxel,4.77,87.19
+NE_1194,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.378,0,Ibuprofen,40.22,79.67
+NE_1195,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.418,0,Celecoxib,201.66,85.06
+NE_1196,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.323,0,Paclitaxel,4.72,84.38
+NE_1197,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.401,0,Celecoxib,208.15,81.94
+NE_1198,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.241,1,Celecoxib,201.08,95.64
+NE_1199,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.418,0,Celecoxib,201.02,82.83
+NE_1200,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.384,0,Paclitaxel,5.5,73.96
+NE_1201,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.143,0,Paclitaxel,5.16,81.08
+NE_1202,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.372,0,Paclitaxel,3.97,74.68
+NE_1203,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.351,0,Paclitaxel,6.07,87.09
+NE_1204,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.181,0,Curcumin,10.28,82.78
+NE_1205,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.447,0,Ibuprofen,47.06,87.64
+NE_1206,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.256,1,Celecoxib,168.77,95.19
+NE_1207,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.273,1,Celecoxib,124.13,98.44
+NE_1208,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.434,0,Paclitaxel,4.14,83.75
+NE_1209,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.126,0,Ibuprofen,51.8,83.84
+NE_1210,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.209,0,Curcumin,12.72,72.64
+NE_1211,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.349,0,Curcumin,14.98,72.01
+NE_1212,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.244,1,Celecoxib,147.91,92.84
+NE_1213,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.381,0,Paclitaxel,5.77,77.9
+NE_1214,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.341,0,Ibuprofen,44.8,85.45
+NE_1215,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.412,0,Curcumin,14.88,79.75
+NE_1216,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.212,1,Paclitaxel,2.34,94.55
+NE_1217,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.383,0,Curcumin,11.3,75.79
+NE_1218,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.447,0,Paclitaxel,4.32,78.03
+NE_1219,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.35,0,Paclitaxel,3.04,80.92
+NE_1220,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.2,0,Paclitaxel,4.89,76.94
+NE_1221,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.352,0,Celecoxib,134.38,84.78
+NE_1222,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.398,0,Celecoxib,196.16,87.71
+NE_1223,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.415,0,Curcumin,11.93,81.84
+NE_1224,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.202,1,Paclitaxel,4.46,92.72
+NE_1225,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.203,0,Ibuprofen,52.49,85.98
+NE_1226,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.344,0,Paclitaxel,6.01,82.23
+NE_1227,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.328,0,Celecoxib,182.34,77.53
+NE_1228,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.199,1,Celecoxib,204.96,95.38
+NE_1229,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.179,1,Celecoxib,196.77,92.49
+NE_1230,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.442,0,Curcumin,10.43,70.31
+NE_1231,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.234,1,Celecoxib,157.04,98.45
+NE_1232,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.31,0,Curcumin,10.39,83.41
+NE_1233,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.246,0,Ibuprofen,30.08,79.64
+NE_1234,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.122,0,Curcumin,15.34,71.34
+NE_1235,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.433,0,Celecoxib,160.56,87.39
+NE_1236,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.27,1,Celecoxib,173.07,94.94
+NE_1237,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.45,0,Curcumin,11.48,70.65
+NE_1238,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.222,1,Celecoxib,187.78,97.89
+NE_1239,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.209,0,Curcumin,17.58,82.28
+NE_1240,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.432,0,Ibuprofen,30.3,80.2
+NE_1241,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.275,0,Paclitaxel,5.91,76.92
+NE_1242,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.164,1,Paclitaxel,4.53,98.9
+NE_1243,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.382,0,Celecoxib,193.08,72.93
+NE_1244,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.328,0,Curcumin,15.31,73.68
+NE_1245,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.282,0,Paclitaxel,3.97,80.01
+NE_1246,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.205,0,Curcumin,9.38,71.4
+NE_1247,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.381,0,Paclitaxel,5.45,87.92
+NE_1248,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.375,0,Curcumin,12.08,78.38
+NE_1249,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.41,0,Paclitaxel,2.52,82.71
+NE_1250,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.171,0,Curcumin,12.39,76.72
+NE_1251,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.22,1,Paclitaxel,2.09,95.56
+NE_1252,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.381,0,Celecoxib,120.56,70.25
+NE_1253,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.38,0,Celecoxib,168.92,86.79
+NE_1254,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.342,0,Curcumin,10.35,83.92
+NE_1255,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.259,0,Ibuprofen,40.03,74.14
+NE_1256,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.315,0,Curcumin,12.55,83.83
+NE_1257,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.153,0,Ibuprofen,32.62,73.61
+NE_1258,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.157,0,Ibuprofen,39.52,86.92
+NE_1259,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.332,0,Ibuprofen,32.39,72.52
+NE_1260,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.312,0,Curcumin,17.39,78.01
+NE_1261,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.345,0,Curcumin,11.57,77.47
+NE_1262,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.147,1,Celecoxib,135.39,98.23
+NE_1263,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.199,1,Celecoxib,199.67,93.08
+NE_1264,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.345,0,Curcumin,16.05,88.26
+NE_1265,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.175,0,Curcumin,14.85,72.19
+NE_1266,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.23,0,Ibuprofen,51.71,84.77
+NE_1267,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.387,0,Curcumin,11.24,82.62
+NE_1268,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.379,0,Curcumin,8.09,80.67
+NE_1269,Capryol 90,Tween 20,11.5,172.2,16.7,1227,1,10.85,0.231,1,Celecoxib,137.99,92.59
+NE_1270,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.257,1,Ibuprofen,42.73,97.26
+NE_1271,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.122,1,Celecoxib,122.0,96.71
+NE_1272,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.216,1,Celecoxib,179.23,95.92
+NE_1273,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.289,0,Ibuprofen,54.0,86.66
+NE_1274,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.34,0,Paclitaxel,6.49,84.58
+NE_1275,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.408,0,Paclitaxel,3.5,87.04
+NE_1276,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.219,0,Ibuprofen,45.65,85.78
+NE_1277,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.331,0,Celecoxib,199.93,80.98
+NE_1278,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.393,0,Paclitaxel,3.12,79.14
+NE_1279,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.418,0,Celecoxib,146.92,84.58
+NE_1280,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.193,0,Curcumin,8.29,77.84
+NE_1281,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.221,0,Ibuprofen,32.21,72.15
+NE_1282,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.263,0,Ibuprofen,40.41,87.6
+NE_1283,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.373,0,Celecoxib,124.59,80.46
+NE_1284,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.174,0,Curcumin,8.45,72.09
+NE_1285,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.106,0,Paclitaxel,5.35,87.64
+NE_1286,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.342,0,Paclitaxel,4.5,75.52
+NE_1287,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.391,0,Ibuprofen,53.3,81.15
+NE_1288,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.396,0,Celecoxib,151.91,74.4
+NE_1289,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.329,0,Ibuprofen,31.73,88.38
+NE_1290,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.23,0,Paclitaxel,6.03,70.45
+NE_1291,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.276,1,Paclitaxel,3.87,95.67
+NE_1292,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.367,0,Celecoxib,174.15,77.49
+NE_1293,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.297,1,Celecoxib,129.78,93.79
+NE_1294,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.343,0,Curcumin,8.27,88.22
+NE_1295,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.356,0,Paclitaxel,2.66,79.19
+NE_1296,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.351,0,Paclitaxel,2.4,71.01
+NE_1297,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.276,0,Curcumin,12.49,71.03
+NE_1298,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.281,1,Paclitaxel,2.18,94.96
+NE_1299,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.439,0,Paclitaxel,3.81,85.29
+NE_1300,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.166,1,Celecoxib,127.35,94.41
+NE_1301,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.269,1,Celecoxib,129.25,98.24
+NE_1302,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.236,0,Paclitaxel,3.54,76.65
+NE_1303,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.117,1,Ibuprofen,31.4,95.79
+NE_1304,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.357,0,Ibuprofen,32.57,88.28
+NE_1305,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.3,1,Celecoxib,122.21,96.19
+NE_1306,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.226,0,Ibuprofen,36.31,73.58
+NE_1307,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.362,0,Celecoxib,190.19,82.7
+NE_1308,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.211,0,Curcumin,9.49,70.62
+NE_1309,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.184,0,Paclitaxel,6.02,87.14
+NE_1310,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.418,0,Curcumin,15.09,77.69
+NE_1311,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.307,0,Ibuprofen,47.89,81.62
+NE_1312,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.442,0,Curcumin,15.97,71.89
+NE_1313,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.196,0,Ibuprofen,38.1,80.02
+NE_1314,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.107,0,Ibuprofen,49.95,77.68
+NE_1315,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.366,0,Curcumin,16.55,72.08
+NE_1316,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.138,0,Curcumin,10.75,70.23
+NE_1317,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.307,0,Curcumin,14.13,79.77
+NE_1318,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.402,0,Ibuprofen,33.44,78.7
+NE_1319,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.153,0,Ibuprofen,34.47,79.12
+NE_1320,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.294,0,Celecoxib,131.46,75.94
+NE_1321,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.365,0,Ibuprofen,49.96,73.0
+NE_1322,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.438,0,Paclitaxel,4.78,71.79
+NE_1323,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.326,0,Celecoxib,166.86,85.58
+NE_1324,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.288,1,Celecoxib,153.15,98.72
+NE_1325,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.236,0,Curcumin,13.03,83.12
+NE_1326,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.163,0,Curcumin,9.01,82.38
+NE_1327,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.378,0,Curcumin,12.11,84.54
+NE_1328,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.425,0,Paclitaxel,3.39,87.63
+NE_1329,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.449,0,Paclitaxel,3.4,72.7
+NE_1330,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.417,0,Celecoxib,187.12,88.28
+NE_1331,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.372,0,Celecoxib,187.38,75.18
+NE_1332,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.184,1,Celecoxib,167.45,92.39
+NE_1333,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.418,0,Ibuprofen,42.31,72.04
+NE_1334,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.214,0,Ibuprofen,50.61,76.67
+NE_1335,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.225,0,Ibuprofen,49.38,88.0
+NE_1336,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.173,0,Curcumin,11.9,72.1
+NE_1337,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.245,1,Ibuprofen,39.65,97.87
+NE_1338,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.357,0,Celecoxib,150.18,76.87
+NE_1339,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.441,0,Celecoxib,120.51,83.8
+NE_1340,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.438,0,Celecoxib,206.54,83.84
+NE_1341,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.174,0,Ibuprofen,31.89,75.34
+NE_1342,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.324,0,Paclitaxel,4.96,75.45
+NE_1343,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.181,0,Ibuprofen,31.17,76.6
+NE_1344,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.39,0,Ibuprofen,54.35,81.26
+NE_1345,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.443,0,Ibuprofen,32.56,82.34
+NE_1346,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.289,0,Curcumin,14.15,76.5
+NE_1347,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.117,0,Paclitaxel,3.63,78.43
+NE_1348,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.143,0,Paclitaxel,2.28,72.1
+NE_1349,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.333,0,Celecoxib,129.04,78.76
+NE_1350,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.18,1,Celecoxib,184.44,92.07
+NE_1351,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.185,0,Ibuprofen,37.17,84.55
+NE_1352,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.296,0,Paclitaxel,4.42,84.62
+NE_1353,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.195,1,Celecoxib,139.79,98.25
+NE_1354,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.191,1,Celecoxib,189.28,99.17
+NE_1355,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.227,1,Paclitaxel,6.1,93.58
+NE_1356,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.324,0,Paclitaxel,5.67,86.29
+NE_1357,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.238,0,Paclitaxel,2.5,79.33
+NE_1358,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.279,0,Curcumin,10.08,79.76
+NE_1359,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.338,0,Ibuprofen,37.9,74.84
+NE_1360,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.406,0,Paclitaxel,3.94,83.93
+NE_1361,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.424,0,Celecoxib,148.55,83.59
+NE_1362,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.154,1,Celecoxib,193.61,98.4
+NE_1363,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.125,0,Paclitaxel,4.35,86.11
+NE_1364,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.244,0,Curcumin,13.25,78.59
+NE_1365,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.293,1,Celecoxib,122.56,95.81
+NE_1366,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.371,0,Curcumin,13.28,86.4
+NE_1367,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.293,0,Ibuprofen,44.7,78.88
+NE_1368,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.398,0,Paclitaxel,4.26,75.24
+NE_1369,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,1,9.25,0.273,0,Paclitaxel,4.6,74.28
+NE_1370,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.323,0,Ibuprofen,34.36,79.43
+NE_1371,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.282,0,Curcumin,14.47,77.27
+NE_1372,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.178,0,Curcumin,17.2,82.12
+NE_1373,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.162,0,Paclitaxel,2.21,77.45
+NE_1374,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,3,13.77,0.119,1,Ibuprofen,53.15,96.83
+NE_1375,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.294,0,Paclitaxel,3.03,79.82
+NE_1376,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.157,0,Curcumin,15.01,79.18
+NE_1377,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.182,1,Celecoxib,206.75,97.22
+NE_1378,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.192,0,Paclitaxel,6.04,70.08
+NE_1379,Castor Oil,Tween 80,14.0,933.4,15.0,1310,1,10.0,0.424,0,Paclitaxel,3.94,70.87
+NE_1380,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.146,1,Paclitaxel,5.41,92.15
+NE_1381,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.27,0,Ibuprofen,34.69,71.46
+NE_1382,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.448,0,Celecoxib,208.22,76.43
+NE_1383,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.302,0,Ibuprofen,38.58,72.01
+NE_1384,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.111,1,Paclitaxel,6.22,99.27
+NE_1385,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.337,0,Ibuprofen,50.28,80.33
+NE_1386,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.206,0,Celecoxib,204.32,76.8
+NE_1387,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.137,0,Ibuprofen,35.84,78.25
+NE_1388,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.217,1,Celecoxib,178.43,94.62
+NE_1389,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.378,0,Paclitaxel,2.33,83.03
+NE_1390,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.294,0,Ibuprofen,33.29,83.44
+NE_1391,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.13,1,Celecoxib,156.93,92.66
+NE_1392,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.154,0,Celecoxib,190.88,88.5
+NE_1393,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.198,0,Ibuprofen,52.85,71.3
+NE_1394,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.381,0,Celecoxib,165.22,82.17
+NE_1395,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.156,1,Celecoxib,204.47,98.28
+NE_1396,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.136,0,Ibuprofen,32.86,83.9
+NE_1397,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.152,1,Celecoxib,129.61,94.82
+NE_1398,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.368,0,Paclitaxel,3.42,71.56
+NE_1399,Capryol 90,Tween 80,11.5,172.2,15.0,1310,2,11.67,0.183,1,Celecoxib,195.08,92.38
+NE_1400,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.19,0,Celecoxib,203.95,84.46
+NE_1401,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.234,1,Ibuprofen,42.61,96.23
+NE_1402,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.278,0,Ibuprofen,50.65,82.41
+NE_1403,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.387,0,Paclitaxel,4.25,75.98
+NE_1404,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.365,0,Curcumin,12.71,73.5
+NE_1405,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.246,0,Ibuprofen,54.02,76.08
+NE_1406,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.253,0,Paclitaxel,2.72,70.68
+NE_1407,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.175,0,Ibuprofen,30.91,73.77
+NE_1408,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.387,0,Paclitaxel,5.85,81.7
+NE_1409,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.315,0,Curcumin,11.54,77.15
+NE_1410,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,2,10.67,0.285,0,Curcumin,9.28,71.93
+NE_1411,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.118,0,Curcumin,14.94,83.12
+NE_1412,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.422,0,Curcumin,10.89,85.91
+NE_1413,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.248,0,Ibuprofen,40.55,84.3
+NE_1414,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.209,1,Celecoxib,205.36,95.99
+NE_1415,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.307,0,Celecoxib,152.9,82.48
+NE_1416,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.331,0,Curcumin,10.36,76.76
+NE_1417,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.423,0,Ibuprofen,34.24,76.2
+NE_1418,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,1,10.85,0.26,0,Curcumin,16.22,85.73
+NE_1419,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.359,0,Curcumin,10.62,80.72
+NE_1420,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,3,12.5,0.289,0,Curcumin,10.58,78.19
+NE_1421,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,3,11.38,0.17,0,Curcumin,15.47,80.33
+NE_1422,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.236,0,Ibuprofen,46.59,74.19
+NE_1423,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.401,0,Paclitaxel,4.57,79.11
+NE_1424,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.111,1,Celecoxib,204.12,97.92
+NE_1425,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,1,10.0,0.151,0,Ibuprofen,37.82,79.82
+NE_1426,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.277,0,Paclitaxel,5.52,74.36
+NE_1427,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.32,0,Ibuprofen,39.09,83.92
+NE_1428,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.241,1,Paclitaxel,5.23,93.31
+NE_1429,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.117,0,Ibuprofen,51.38,76.8
+NE_1430,Castor Oil,Labrasol,14.0,933.4,12.0,450,2,9.67,0.164,0,Paclitaxel,2.86,81.64
+NE_1431,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.243,0,Paclitaxel,4.5,84.98
+NE_1432,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.29,0,Curcumin,15.71,76.81
+NE_1433,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.206,0,Celecoxib,121.09,75.14
+NE_1434,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.208,0,Paclitaxel,5.67,70.05
+NE_1435,Castor Oil,Labrasol,14.0,933.4,12.0,450,1,8.5,0.368,0,Paclitaxel,5.97,87.16
+NE_1436,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.407,0,Curcumin,10.99,73.96
+NE_1437,Capryol 90,Labrasol,11.5,172.2,12.0,450,2,9.67,0.385,0,Celecoxib,151.29,79.71
+NE_1438,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.22,0,Ibuprofen,42.53,76.79
+NE_1439,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.43,0,Ibuprofen,53.19,81.72
+NE_1440,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.346,0,Paclitaxel,5.26,84.2
+NE_1441,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.373,0,Ibuprofen,42.41,73.01
+NE_1442,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.313,0,Celecoxib,194.52,71.59
+NE_1443,Miglyol 812,Labrasol,15.0,520.0,12.0,450,2,9.67,0.26,0,Ibuprofen,32.73,85.87
+NE_1444,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.413,0,Curcumin,14.03,86.05
+NE_1445,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.36,0,Paclitaxel,4.38,78.37
+NE_1446,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.197,0,Curcumin,9.07,82.53
+NE_1447,Miglyol 812,Labrasol,15.0,520.0,12.0,450,3,10.25,0.229,0,Ibuprofen,37.44,76.3
+NE_1448,Castor Oil,Tween 20,14.0,933.4,16.7,1227,1,10.85,0.34,0,Paclitaxel,6.2,77.11
+NE_1449,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.337,0,Paclitaxel,6.36,85.98
+NE_1450,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.153,0,Ibuprofen,38.34,82.01
+NE_1451,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,3,11.38,0.425,0,Ibuprofen,39.53,80.51
+NE_1452,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.223,0,Celecoxib,142.95,75.51
+NE_1453,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.137,1,Celecoxib,176.55,92.2
+NE_1454,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.228,0,Curcumin,13.01,73.22
+NE_1455,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,1,9.25,0.443,0,Ibuprofen,45.46,77.07
+NE_1456,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.35,0,Curcumin,14.58,76.74
+NE_1457,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.428,0,Celecoxib,189.69,85.16
+NE_1458,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.27,0,Ibuprofen,40.02,78.09
+NE_1459,Oleic Acid,Labrasol,17.0,282.5,12.0,450,2,9.67,0.293,0,Curcumin,15.52,82.33
+NE_1460,Oleic Acid,Labrasol,17.0,282.5,12.0,450,1,8.5,0.113,0,Curcumin,10.09,78.36
+NE_1461,Capryol 90,Tween 20,11.5,172.2,16.7,1227,3,13.77,0.404,0,Celecoxib,202.66,76.51
+NE_1462,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.331,0,Ibuprofen,51.0,86.92
+NE_1463,Miglyol 812,Labrasol,15.0,520.0,12.0,450,1,8.5,0.421,0,Ibuprofen,49.78,87.05
+NE_1464,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,2,11.67,0.387,0,Ibuprofen,31.9,83.62
+NE_1465,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.244,1,Paclitaxel,2.1,95.74
+NE_1466,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,1,10.0,0.175,0,Curcumin,10.96,79.78
+NE_1467,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,1,9.25,0.353,0,Celecoxib,197.45,76.19
+NE_1468,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.191,0,Paclitaxel,6.25,74.54
+NE_1469,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.423,0,Ibuprofen,34.9,74.59
+NE_1470,Capryol 90,Labrasol,11.5,172.2,12.0,450,1,8.5,0.302,0,Celecoxib,208.53,74.49
+NE_1471,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.435,0,Celecoxib,169.98,70.14
+NE_1472,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.206,1,Paclitaxel,4.01,94.02
+NE_1473,Capryol 90,Labrasol,11.5,172.2,12.0,450,3,10.25,0.285,1,Celecoxib,168.34,97.91
+NE_1474,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.302,0,Paclitaxel,2.48,81.94
+NE_1475,Oleic Acid,Cremophor EL,17.0,282.5,13.5,2500,1,9.25,0.421,0,Curcumin,15.51,80.26
+NE_1476,Castor Oil,Tween 80,14.0,933.4,15.0,1310,2,11.67,0.297,1,Paclitaxel,6.39,96.55
+NE_1477,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,2,12.8,0.344,0,Curcumin,12.73,70.31
+NE_1478,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.29,0,Ibuprofen,40.53,85.03
+NE_1479,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,3,11.38,0.151,1,Celecoxib,148.19,98.54
+NE_1480,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,3,11.38,0.31,0,Paclitaxel,4.69,73.29
+NE_1481,Capryol 90,Cremophor EL,11.5,172.2,13.5,2500,2,10.67,0.156,1,Celecoxib,159.96,93.55
+NE_1482,Capryol 90,Tween 80,11.5,172.2,15.0,1310,1,10.0,0.2,1,Celecoxib,131.71,94.55
+NE_1483,Castor Oil,Tween 20,14.0,933.4,16.7,1227,2,12.8,0.346,0,Paclitaxel,3.59,84.91
+NE_1484,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,1,10.85,0.139,0,Ibuprofen,39.92,75.47
+NE_1485,Capryol 90,Tween 20,11.5,172.2,16.7,1227,2,12.8,0.283,1,Celecoxib,197.66,99.08
+NE_1486,Oleic Acid,Labrasol,17.0,282.5,12.0,450,3,10.25,0.133,0,Curcumin,11.24,88.02
+NE_1487,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.32,0,Paclitaxel,4.27,78.97
+NE_1488,Castor Oil,Tween 20,14.0,933.4,16.7,1227,3,13.77,0.263,1,Paclitaxel,2.08,97.86
+NE_1489,Castor Oil,Tween 80,14.0,933.4,15.0,1310,3,12.5,0.183,1,Paclitaxel,4.22,96.1
+NE_1490,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.414,0,Celecoxib,129.31,83.15
+NE_1491,Oleic Acid,Tween 20,17.0,282.5,16.7,1227,3,13.77,0.395,0,Curcumin,10.74,72.44
+NE_1492,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.165,1,Celecoxib,158.86,96.36
+NE_1493,Capryol 90,Tween 80,11.5,172.2,15.0,1310,3,12.5,0.19,1,Celecoxib,181.58,94.75
+NE_1494,Miglyol 812,Cremophor EL,15.0,520.0,13.5,2500,2,10.67,0.354,0,Ibuprofen,36.95,72.44
+NE_1495,Miglyol 812,Tween 80,15.0,520.0,15.0,1310,3,12.5,0.38,0,Ibuprofen,36.7,81.52
+NE_1496,Miglyol 812,Tween 20,15.0,520.0,16.7,1227,2,12.8,0.164,1,Ibuprofen,48.24,95.78
+NE_1497,Castor Oil,Cremophor EL,14.0,933.4,13.5,2500,2,10.67,0.428,0,Paclitaxel,6.43,81.6
+NE_1498,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.399,0,Curcumin,15.3,81.16
+NE_1499,Oleic Acid,Tween 80,17.0,282.5,15.0,1310,2,11.67,0.159,0,Curcumin,11.97,83.34
+NE_1500,Castor Oil,Labrasol,14.0,933.4,12.0,450,3,10.25,0.351,0,Paclitaxel,4.04,81.32
